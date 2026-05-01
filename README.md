@@ -113,7 +113,7 @@ exam-eye/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/exam-eye-ai.git
+git clone https://github.com/saunak-ramiya-sebasan/exam-eye-ai.git
 cd exam-eye-ai
 ```
 
@@ -280,7 +280,3 @@ mkdir logs
 ```
 
 ---
-
-## License
-
-MIT License
