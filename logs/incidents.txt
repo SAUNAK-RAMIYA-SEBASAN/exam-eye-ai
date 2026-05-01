@@ -1,0 +1,1981 @@
+[2026-05-01 00:05:19] DEVICE: Detected device with confidence 0.57
+[2026-05-01 00:06:42] DEVICE: Detected device with confidence 0.72
+[2026-05-01 00:06:42] MULTI: Multiple violations detected
+[2026-05-01 00:06:42] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:06:42] DEVICE: Detected device with confidence 0.58
+[2026-05-01 00:06:42] DEVICE: Detected device with confidence 0.53
+[2026-05-01 00:06:42] MULTI: Multiple violations detected
+[2026-05-01 00:06:42] DEVICE: Detected device with confidence 0.86
+[2026-05-01 00:06:42] MULTI: Multiple violations detected
+[2026-05-01 00:06:42] DEVICE: Detected device with confidence 0.86
+[2026-05-01 00:06:42] MULTI: Multiple violations detected
+[2026-05-01 00:06:42] DEVICE: Detected device with confidence 0.89
+[2026-05-01 00:06:42] DEVICE: Detected device with confidence 0.61
+[2026-05-01 00:06:42] MULTI: Multiple violations detected
+[2026-05-01 00:06:42] DEVICE: Detected device with confidence 0.89
+[2026-05-01 00:06:42] DEVICE: Detected device with confidence 0.57
+[2026-05-01 00:06:42] DEVICE: Detected device with confidence 0.52
+[2026-05-01 00:06:42] MULTI: Multiple violations detected
+[2026-05-01 00:06:43] DEVICE: Detected device with confidence 0.89
+[2026-05-01 00:06:43] DEVICE: Detected device with confidence 0.60
+[2026-05-01 00:06:43] DEVICE: Detected device with confidence 0.56
+[2026-05-01 00:06:43] MULTI: Multiple violations detected
+[2026-05-01 00:06:43] DEVICE: Detected device with confidence 0.89
+[2026-05-01 00:06:43] DEVICE: Detected device with confidence 0.50
+[2026-05-01 00:06:43] MULTI: Multiple violations detected
+[2026-05-01 00:06:43] DEVICE: Detected device with confidence 0.88
+[2026-05-01 00:06:43] DEVICE: Detected device with confidence 0.58
+[2026-05-01 00:06:43] MULTI: Multiple violations detected
+[2026-05-01 00:06:43] DEVICE: Detected device with confidence 0.87
+[2026-05-01 00:06:43] DEVICE: Detected device with confidence 0.55
+[2026-05-01 00:06:43] DEVICE: Detected device with confidence 0.51
+[2026-05-01 00:06:43] MULTI: Multiple violations detected
+[2026-05-01 00:06:43] DEVICE: Detected device with confidence 0.87
+[2026-05-01 00:06:43] DEVICE: Detected device with confidence 0.61
+[2026-05-01 00:06:43] MULTI: Multiple violations detected
+[2026-05-01 00:06:43] DEVICE: Detected device with confidence 0.87
+[2026-05-01 00:06:43] DEVICE: Detected device with confidence 0.65
+[2026-05-01 00:06:43] MULTI: Multiple violations detected
+[2026-05-01 00:06:43] DEVICE: Detected device with confidence 0.87
+[2026-05-01 00:06:43] DEVICE: Detected device with confidence 0.65
+[2026-05-01 00:06:43] MULTI: Multiple violations detected
+[2026-05-01 00:06:43] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:06:43] DEVICE: Detected device with confidence 0.54
+[2026-05-01 00:06:43] MULTI: Multiple violations detected
+[2026-05-01 00:06:43] DEVICE: Detected device with confidence 0.85
+[2026-05-01 00:06:43] DEVICE: Detected device with confidence 0.59
+[2026-05-01 00:06:43] DEVICE: Detected device with confidence 0.58
+[2026-05-01 00:06:43] MULTI: Multiple violations detected
+[2026-05-01 00:06:43] DEVICE: Detected device with confidence 0.87
+[2026-05-01 00:06:43] DEVICE: Detected device with confidence 0.60
+[2026-05-01 00:06:44] MULTI: Multiple violations detected
+[2026-05-01 00:06:44] DEVICE: Detected device with confidence 0.87
+[2026-05-01 00:06:44] DEVICE: Detected device with confidence 0.58
+[2026-05-01 00:06:44] MULTI: Multiple violations detected
+[2026-05-01 00:06:44] DEVICE: Detected device with confidence 0.85
+[2026-05-01 00:06:44] DEVICE: Detected device with confidence 0.65
+[2026-05-01 00:06:44] DEVICE: Detected device with confidence 0.54
+[2026-05-01 00:06:44] MULTI: Multiple violations detected
+[2026-05-01 00:06:44] DEVICE: Detected device with confidence 0.88
+[2026-05-01 00:06:44] DEVICE: Detected device with confidence 0.55
+[2026-05-01 00:06:44] DEVICE: Detected device with confidence 0.52
+[2026-05-01 00:06:44] MULTI: Multiple violations detected
+[2026-05-01 00:06:44] DEVICE: Detected device with confidence 0.88
+[2026-05-01 00:06:44] DEVICE: Detected device with confidence 0.55
+[2026-05-01 00:06:44] MULTI: Multiple violations detected
+[2026-05-01 00:06:44] DEVICE: Detected device with confidence 0.88
+[2026-05-01 00:06:44] DEVICE: Detected device with confidence 0.60
+[2026-05-01 00:06:44] MULTI: Multiple violations detected
+[2026-05-01 00:06:44] DEVICE: Detected device with confidence 0.88
+[2026-05-01 00:06:44] DEVICE: Detected device with confidence 0.57
+[2026-05-01 00:06:44] MULTI: Multiple violations detected
+[2026-05-01 00:06:44] DEVICE: Detected device with confidence 0.88
+[2026-05-01 00:06:44] DEVICE: Detected device with confidence 0.54
+[2026-05-01 00:06:44] MULTI: Multiple violations detected
+[2026-05-01 00:06:44] DEVICE: Detected device with confidence 0.88
+[2026-05-01 00:06:44] DEVICE: Detected device with confidence 0.56
+[2026-05-01 00:06:44] DEVICE: Detected device with confidence 0.54
+[2026-05-01 00:06:44] MULTI: Multiple violations detected
+[2026-05-01 00:06:44] DEVICE: Detected device with confidence 0.89
+[2026-05-01 00:06:44] DEVICE: Detected device with confidence 0.59
+[2026-05-01 00:06:44] MULTI: Multiple violations detected
+[2026-05-01 00:06:45] DEVICE: Detected device with confidence 0.88
+[2026-05-01 00:06:45] DEVICE: Detected device with confidence 0.64
+[2026-05-01 00:06:45] MULTI: Multiple violations detected
+[2026-05-01 00:06:45] DEVICE: Detected device with confidence 0.89
+[2026-05-01 00:06:45] DEVICE: Detected device with confidence 0.62
+[2026-05-01 00:06:45] MULTI: Multiple violations detected
+[2026-05-01 00:06:45] DEVICE: Detected device with confidence 0.89
+[2026-05-01 00:06:45] DEVICE: Detected device with confidence 0.62
+[2026-05-01 00:06:45] MULTI: Multiple violations detected
+[2026-05-01 00:06:45] DEVICE: Detected device with confidence 0.89
+[2026-05-01 00:06:45] DEVICE: Detected device with confidence 0.56
+[2026-05-01 00:06:45] DEVICE: Detected device with confidence 0.54
+[2026-05-01 00:06:45] MULTI: Multiple violations detected
+[2026-05-01 00:06:45] DEVICE: Detected device with confidence 0.89
+[2026-05-01 00:06:45] DEVICE: Detected device with confidence 0.57
+[2026-05-01 00:06:45] DEVICE: Detected device with confidence 0.56
+[2026-05-01 00:06:45] MULTI: Multiple violations detected
+[2026-05-01 00:06:45] DEVICE: Detected device with confidence 0.89
+[2026-05-01 00:06:45] DEVICE: Detected device with confidence 0.58
+[2026-05-01 00:06:45] DEVICE: Detected device with confidence 0.57
+[2026-05-01 00:06:45] MULTI: Multiple violations detected
+[2026-05-01 00:06:45] DEVICE: Detected device with confidence 0.89
+[2026-05-01 00:06:45] DEVICE: Detected device with confidence 0.56
+[2026-05-01 00:06:45] DEVICE: Detected device with confidence 0.51
+[2026-05-01 00:06:45] MULTI: Multiple violations detected
+[2026-05-01 00:06:45] DEVICE: Detected device with confidence 0.88
+[2026-05-01 00:06:45] MULTI: Multiple violations detected
+[2026-05-01 00:06:46] DEVICE: Detected device with confidence 0.89
+[2026-05-01 00:06:46] DEVICE: Detected device with confidence 0.51
+[2026-05-01 00:06:46] MULTI: Multiple violations detected
+[2026-05-01 00:06:46] DEVICE: Detected device with confidence 0.88
+[2026-05-01 00:06:46] MULTI: Multiple violations detected
+[2026-05-01 00:06:46] DEVICE: Detected device with confidence 0.89
+[2026-05-01 00:06:46] DEVICE: Detected device with confidence 0.54
+[2026-05-01 00:06:46] DEVICE: Detected device with confidence 0.53
+[2026-05-01 00:06:46] MULTI: Multiple violations detected
+[2026-05-01 00:06:46] DEVICE: Detected device with confidence 0.89
+[2026-05-01 00:06:46] DEVICE: Detected device with confidence 0.65
+[2026-05-01 00:06:46] DEVICE: Detected device with confidence 0.61
+[2026-05-01 00:06:46] MULTI: Multiple violations detected
+[2026-05-01 00:06:46] DEVICE: Detected device with confidence 0.90
+[2026-05-01 00:06:46] DEVICE: Detected device with confidence 0.56
+[2026-05-01 00:06:46] MULTI: Multiple violations detected
+[2026-05-01 00:06:46] DEVICE: Detected device with confidence 0.90
+[2026-05-01 00:06:46] DEVICE: Detected device with confidence 0.65
+[2026-05-01 00:06:46] DEVICE: Detected device with confidence 0.54
+[2026-05-01 00:06:46] MULTI: Multiple violations detected
+[2026-05-01 00:06:46] DEVICE: Detected device with confidence 0.90
+[2026-05-01 00:06:46] DEVICE: Detected device with confidence 0.63
+[2026-05-01 00:06:46] DEVICE: Detected device with confidence 0.60
+[2026-05-01 00:06:46] MULTI: Multiple violations detected
+[2026-05-01 00:06:46] DEVICE: Detected device with confidence 0.90
+[2026-05-01 00:06:46] DEVICE: Detected device with confidence 0.56
+[2026-05-01 00:06:46] DEVICE: Detected device with confidence 0.53
+[2026-05-01 00:06:46] MULTI: Multiple violations detected
+[2026-05-01 00:06:46] DEVICE: Detected device with confidence 0.90
+[2026-05-01 00:06:46] DEVICE: Detected device with confidence 0.53
+[2026-05-01 00:06:46] MULTI: Multiple violations detected
+[2026-05-01 00:06:47] DEVICE: Detected device with confidence 0.89
+[2026-05-01 00:06:47] DEVICE: Detected device with confidence 0.60
+[2026-05-01 00:06:47] DEVICE: Detected device with confidence 0.57
+[2026-05-01 00:06:47] MULTI: Multiple violations detected
+[2026-05-01 00:06:47] DEVICE: Detected device with confidence 0.89
+[2026-05-01 00:06:47] DEVICE: Detected device with confidence 0.56
+[2026-05-01 00:06:47] DEVICE: Detected device with confidence 0.53
+[2026-05-01 00:06:47] MULTI: Multiple violations detected
+[2026-05-01 00:06:47] DEVICE: Detected device with confidence 0.88
+[2026-05-01 00:06:47] DEVICE: Detected device with confidence 0.66
+[2026-05-01 00:06:47] DEVICE: Detected device with confidence 0.53
+[2026-05-01 00:06:47] MULTI: Multiple violations detected
+[2026-05-01 00:06:47] DEVICE: Detected device with confidence 0.88
+[2026-05-01 00:06:47] DEVICE: Detected device with confidence 0.66
+[2026-05-01 00:06:47] DEVICE: Detected device with confidence 0.53
+[2026-05-01 00:06:47] MULTI: Multiple violations detected
+[2026-05-01 00:06:47] DEVICE: Detected device with confidence 0.88
+[2026-05-01 00:06:47] DEVICE: Detected device with confidence 0.64
+[2026-05-01 00:06:47] MULTI: Multiple violations detected
+[2026-05-01 00:06:47] DEVICE: Detected device with confidence 0.88
+[2026-05-01 00:06:47] DEVICE: Detected device with confidence 0.59
+[2026-05-01 00:06:47] DEVICE: Detected device with confidence 0.51
+[2026-05-01 00:06:47] DEVICE: Detected device with confidence 0.50
+[2026-05-01 00:06:47] MULTI: Multiple violations detected
+[2026-05-01 00:06:47] DEVICE: Detected device with confidence 0.88
+[2026-05-01 00:06:47] DEVICE: Detected device with confidence 0.56
+[2026-05-01 00:06:47] MULTI: Multiple violations detected
+[2026-05-01 00:06:47] DEVICE: Detected device with confidence 0.89
+[2026-05-01 00:06:47] DEVICE: Detected device with confidence 0.59
+[2026-05-01 00:06:47] MULTI: Multiple violations detected
+[2026-05-01 00:06:47] DEVICE: Detected device with confidence 0.88
+[2026-05-01 00:06:47] DEVICE: Detected device with confidence 0.56
+[2026-05-01 00:06:47] DEVICE: Detected device with confidence 0.55
+[2026-05-01 00:06:47] MULTI: Multiple violations detected
+[2026-05-01 00:06:48] DEVICE: Detected device with confidence 0.88
+[2026-05-01 00:06:48] DEVICE: Detected device with confidence 0.50
+[2026-05-01 00:06:48] MULTI: Multiple violations detected
+[2026-05-01 00:06:48] DEVICE: Detected device with confidence 0.89
+[2026-05-01 00:06:48] DEVICE: Detected device with confidence 0.57
+[2026-05-01 00:06:48] DEVICE: Detected device with confidence 0.55
+[2026-05-01 00:06:48] MULTI: Multiple violations detected
+[2026-05-01 00:06:48] DEVICE: Detected device with confidence 0.87
+[2026-05-01 00:06:48] DEVICE: Detected device with confidence 0.56
+[2026-05-01 00:06:48] MULTI: Multiple violations detected
+[2026-05-01 00:06:48] DEVICE: Detected device with confidence 0.88
+[2026-05-01 00:06:48] DEVICE: Detected device with confidence 0.62
+[2026-05-01 00:06:48] DEVICE: Detected device with confidence 0.60
+[2026-05-01 00:06:48] MULTI: Multiple violations detected
+[2026-05-01 00:06:48] DEVICE: Detected device with confidence 0.88
+[2026-05-01 00:06:48] DEVICE: Detected device with confidence 0.64
+[2026-05-01 00:06:48] DEVICE: Detected device with confidence 0.52
+[2026-05-01 00:06:48] MULTI: Multiple violations detected
+[2026-05-01 00:06:48] DEVICE: Detected device with confidence 0.87
+[2026-05-01 00:06:48] DEVICE: Detected device with confidence 0.65
+[2026-05-01 00:06:48] DEVICE: Detected device with confidence 0.52
+[2026-05-01 00:06:48] MULTI: Multiple violations detected
+[2026-05-01 00:06:48] DEVICE: Detected device with confidence 0.88
+[2026-05-01 00:06:48] DEVICE: Detected device with confidence 0.54
+[2026-05-01 00:06:48] MULTI: Multiple violations detected
+[2026-05-01 00:06:48] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:06:48] DEVICE: Detected device with confidence 0.59
+[2026-05-01 00:06:48] MULTI: Multiple violations detected
+[2026-05-01 00:06:48] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:06:48] DEVICE: Detected device with confidence 0.59
+[2026-05-01 00:06:48] MULTI: Multiple violations detected
+[2026-05-01 00:06:49] DEVICE: Detected device with confidence 0.88
+[2026-05-01 00:06:49] DEVICE: Detected device with confidence 0.61
+[2026-05-01 00:06:49] MULTI: Multiple violations detected
+[2026-05-01 00:06:49] DEVICE: Detected device with confidence 0.84
+[2026-05-01 00:06:49] DEVICE: Detected device with confidence 0.63
+[2026-05-01 00:06:49] DEVICE: Detected device with confidence 0.51
+[2026-05-01 00:06:49] MULTI: Multiple violations detected
+[2026-05-01 00:06:49] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:06:49] DEVICE: Detected device with confidence 0.68
+[2026-05-01 00:06:49] DEVICE: Detected device with confidence 0.60
+[2026-05-01 00:06:49] MULTI: Multiple violations detected
+[2026-05-01 00:06:49] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:06:49] DEVICE: Detected device with confidence 0.64
+[2026-05-01 00:06:49] DEVICE: Detected device with confidence 0.61
+[2026-05-01 00:06:49] MULTI: Multiple violations detected
+[2026-05-01 00:06:49] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:06:49] DEVICE: Detected device with confidence 0.58
+[2026-05-01 00:06:49] DEVICE: Detected device with confidence 0.52
+[2026-05-01 00:06:49] MULTI: Multiple violations detected
+[2026-05-01 00:06:49] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:06:49] DEVICE: Detected device with confidence 0.62
+[2026-05-01 00:06:49] DEVICE: Detected device with confidence 0.52
+[2026-05-01 00:06:49] MULTI: Multiple violations detected
+[2026-05-01 00:06:49] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:06:49] DEVICE: Detected device with confidence 0.64
+[2026-05-01 00:06:49] DEVICE: Detected device with confidence 0.63
+[2026-05-01 00:06:49] MULTI: Multiple violations detected
+[2026-05-01 00:06:49] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:06:49] DEVICE: Detected device with confidence 0.61
+[2026-05-01 00:06:49] DEVICE: Detected device with confidence 0.54
+[2026-05-01 00:06:49] MULTI: Multiple violations detected
+[2026-05-01 00:06:50] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:06:50] DEVICE: Detected device with confidence 0.64
+[2026-05-01 00:06:50] MULTI: Multiple violations detected
+[2026-05-01 00:06:50] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:06:50] DEVICE: Detected device with confidence 0.57
+[2026-05-01 00:06:50] MULTI: Multiple violations detected
+[2026-05-01 00:06:50] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:06:50] DEVICE: Detected device with confidence 0.62
+[2026-05-01 00:06:50] MULTI: Multiple violations detected
+[2026-05-01 00:06:50] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:06:50] DEVICE: Detected device with confidence 0.50
+[2026-05-01 00:06:50] MULTI: Multiple violations detected
+[2026-05-01 00:06:50] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:06:50] DEVICE: Detected device with confidence 0.57
+[2026-05-01 00:06:50] DEVICE: Detected device with confidence 0.54
+[2026-05-01 00:06:50] MULTI: Multiple violations detected
+[2026-05-01 00:06:50] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:06:50] DEVICE: Detected device with confidence 0.62
+[2026-05-01 00:06:50] MULTI: Multiple violations detected
+[2026-05-01 00:06:50] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:06:50] DEVICE: Detected device with confidence 0.50
+[2026-05-01 00:06:50] MULTI: Multiple violations detected
+[2026-05-01 00:06:50] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:06:50] MULTI: Multiple violations detected
+[2026-05-01 00:06:50] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:06:50] DEVICE: Detected device with confidence 0.61
+[2026-05-01 00:06:50] DEVICE: Detected device with confidence 0.59
+[2026-05-01 00:06:50] MULTI: Multiple violations detected
+[2026-05-01 00:06:51] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:06:51] DEVICE: Detected device with confidence 0.63
+[2026-05-01 00:06:51] MULTI: Multiple violations detected
+[2026-05-01 00:06:51] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:06:51] MULTI: Multiple violations detected
+[2026-05-01 00:06:51] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:06:51] MULTI: Multiple violations detected
+[2026-05-01 00:06:51] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:06:51] DEVICE: Detected device with confidence 0.55
+[2026-05-01 00:06:51] MULTI: Multiple violations detected
+[2026-05-01 00:06:51] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:06:51] DEVICE: Detected device with confidence 0.51
+[2026-05-01 00:06:51] MULTI: Multiple violations detected
+[2026-05-01 00:06:51] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:06:51] MULTI: Multiple violations detected
+[2026-05-01 00:06:51] DEVICE: Detected device with confidence 0.75
+[2026-05-01 00:06:51] DEVICE: Detected device with confidence 0.51
+[2026-05-01 00:06:51] MULTI: Multiple violations detected
+[2026-05-01 00:06:51] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:06:51] MULTI: Multiple violations detected
+[2026-05-01 00:06:51] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:06:51] DEVICE: Detected device with confidence 0.50
+[2026-05-01 00:06:51] MULTI: Multiple violations detected
+[2026-05-01 00:06:52] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:06:52] DEVICE: Detected device with confidence 0.50
+[2026-05-01 00:06:52] MULTI: Multiple violations detected
+[2026-05-01 00:06:52] DEVICE: Detected device with confidence 0.74
+[2026-05-01 00:06:52] DEVICE: Detected device with confidence 0.54
+[2026-05-01 00:06:52] MULTI: Multiple violations detected
+[2026-05-01 00:06:52] DEVICE: Detected device with confidence 0.73
+[2026-05-01 00:06:52] DEVICE: Detected device with confidence 0.56
+[2026-05-01 00:06:52] MULTI: Multiple violations detected
+[2026-05-01 00:06:52] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:06:52] DEVICE: Detected device with confidence 0.56
+[2026-05-01 00:06:52] MULTI: Multiple violations detected
+[2026-05-01 00:06:52] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:06:52] DEVICE: Detected device with confidence 0.53
+[2026-05-01 00:06:52] MULTI: Multiple violations detected
+[2026-05-01 00:06:52] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:06:52] DEVICE: Detected device with confidence 0.62
+[2026-05-01 00:06:52] MULTI: Multiple violations detected
+[2026-05-01 00:06:52] DEVICE: Detected device with confidence 0.75
+[2026-05-01 00:06:52] DEVICE: Detected device with confidence 0.54
+[2026-05-01 00:06:52] MULTI: Multiple violations detected
+[2026-05-01 00:06:52] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:06:52] MULTI: Multiple violations detected
+[2026-05-01 00:06:52] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:06:52] MULTI: Multiple violations detected
+[2026-05-01 00:06:52] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:06:52] DEVICE: Detected device with confidence 0.67
+[2026-05-01 00:06:52] MULTI: Multiple violations detected
+[2026-05-01 00:06:53] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:06:53] DEVICE: Detected device with confidence 0.55
+[2026-05-01 00:06:53] DEVICE: Detected device with confidence 0.55
+[2026-05-01 00:06:53] MULTI: Multiple violations detected
+[2026-05-01 00:06:53] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:06:53] DEVICE: Detected device with confidence 0.59
+[2026-05-01 00:06:53] MULTI: Multiple violations detected
+[2026-05-01 00:06:53] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:06:53] DEVICE: Detected device with confidence 0.62
+[2026-05-01 00:06:53] DEVICE: Detected device with confidence 0.59
+[2026-05-01 00:06:53] MULTI: Multiple violations detected
+[2026-05-01 00:06:53] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:06:53] DEVICE: Detected device with confidence 0.65
+[2026-05-01 00:06:53] DEVICE: Detected device with confidence 0.53
+[2026-05-01 00:06:53] MULTI: Multiple violations detected
+[2026-05-01 00:06:53] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:06:53] DEVICE: Detected device with confidence 0.55
+[2026-05-01 00:06:53] MULTI: Multiple violations detected
+[2026-05-01 00:06:53] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:06:53] DEVICE: Detected device with confidence 0.58
+[2026-05-01 00:06:53] MULTI: Multiple violations detected
+[2026-05-01 00:06:53] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:06:53] DEVICE: Detected device with confidence 0.62
+[2026-05-01 00:06:53] DEVICE: Detected device with confidence 0.51
+[2026-05-01 00:06:53] MULTI: Multiple violations detected
+[2026-05-01 00:06:53] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:06:53] DEVICE: Detected device with confidence 0.62
+[2026-05-01 00:06:53] DEVICE: Detected device with confidence 0.51
+[2026-05-01 00:06:53] MULTI: Multiple violations detected
+[2026-05-01 00:06:54] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:06:54] DEVICE: Detected device with confidence 0.53
+[2026-05-01 00:06:54] MULTI: Multiple violations detected
+[2026-05-01 00:06:54] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:06:54] MULTI: Multiple violations detected
+[2026-05-01 00:06:54] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:06:54] MULTI: Multiple violations detected
+[2026-05-01 00:06:54] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:06:54] MULTI: Multiple violations detected
+[2026-05-01 00:06:54] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:06:54] MULTI: Multiple violations detected
+[2026-05-01 00:06:54] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:06:54] DEVICE: Detected device with confidence 0.54
+[2026-05-01 00:06:54] MULTI: Multiple violations detected
+[2026-05-01 00:06:54] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:06:54] DEVICE: Detected device with confidence 0.71
+[2026-05-01 00:06:54] MULTI: Multiple violations detected
+[2026-05-01 00:06:54] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:06:54] DEVICE: Detected device with confidence 0.53
+[2026-05-01 00:06:54] MULTI: Multiple violations detected
+[2026-05-01 00:06:54] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:06:54] DEVICE: Detected device with confidence 0.58
+[2026-05-01 00:06:54] MULTI: Multiple violations detected
+[2026-05-01 00:06:55] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:06:55] DEVICE: Detected device with confidence 0.63
+[2026-05-01 00:06:55] MULTI: Multiple violations detected
+[2026-05-01 00:06:55] DEVICE: Detected device with confidence 0.74
+[2026-05-01 00:06:55] DEVICE: Detected device with confidence 0.64
+[2026-05-01 00:06:55] MULTI: Multiple violations detected
+[2026-05-01 00:06:55] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:06:55] DEVICE: Detected device with confidence 0.64
+[2026-05-01 00:06:55] MULTI: Multiple violations detected
+[2026-05-01 00:06:55] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:06:55] DEVICE: Detected device with confidence 0.66
+[2026-05-01 00:06:55] MULTI: Multiple violations detected
+[2026-05-01 00:06:55] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:06:55] DEVICE: Detected device with confidence 0.55
+[2026-05-01 00:06:55] MULTI: Multiple violations detected
+[2026-05-01 00:06:55] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:06:55] MULTI: Multiple violations detected
+[2026-05-01 00:06:55] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:06:55] MULTI: Multiple violations detected
+[2026-05-01 00:06:55] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:06:55] DEVICE: Detected device with confidence 0.51
+[2026-05-01 00:06:55] MULTI: Multiple violations detected
+[2026-05-01 00:06:55] DEVICE: Detected device with confidence 0.74
+[2026-05-01 00:06:55] DEVICE: Detected device with confidence 0.56
+[2026-05-01 00:06:55] MULTI: Multiple violations detected
+[2026-05-01 00:06:55] DEVICE: Detected device with confidence 0.74
+[2026-05-01 00:06:55] DEVICE: Detected device with confidence 0.56
+[2026-05-01 00:06:55] MULTI: Multiple violations detected
+[2026-05-01 00:06:56] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:06:56] DEVICE: Detected device with confidence 0.59
+[2026-05-01 00:06:56] MULTI: Multiple violations detected
+[2026-05-01 00:06:56] DEVICE: Detected device with confidence 0.74
+[2026-05-01 00:06:56] MULTI: Multiple violations detected
+[2026-05-01 00:06:56] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:06:56] MULTI: Multiple violations detected
+[2026-05-01 00:06:56] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:06:56] MULTI: Multiple violations detected
+[2026-05-01 00:06:56] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:06:56] MULTI: Multiple violations detected
+[2026-05-01 00:06:56] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:06:56] MULTI: Multiple violations detected
+[2026-05-01 00:06:56] DEVICE: Detected device with confidence 0.68
+[2026-05-01 00:06:56] MULTI: Multiple violations detected
+[2026-05-01 00:06:56] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:06:56] MULTI: Multiple violations detected
+[2026-05-01 00:06:57] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:06:57] DEVICE: Detected device with confidence 0.51
+[2026-05-01 00:06:57] MULTI: Multiple violations detected
+[2026-05-01 00:06:57] DEVICE: Detected device with confidence 0.69
+[2026-05-01 00:06:57] MULTI: Multiple violations detected
+[2026-05-01 00:06:57] DEVICE: Detected device with confidence 0.64
+[2026-05-01 00:06:57] MULTI: Multiple violations detected
+[2026-05-01 00:06:57] DEVICE: Detected device with confidence 0.68
+[2026-05-01 00:06:57] MULTI: Multiple violations detected
+[2026-05-01 00:06:57] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:06:57] MULTI: Multiple violations detected
+[2026-05-01 00:06:58] DEVICE: Detected device with confidence 0.71
+[2026-05-01 00:06:58] MULTI: Multiple violations detected
+[2026-05-01 00:06:58] DEVICE: Detected device with confidence 0.75
+[2026-05-01 00:06:58] MULTI: Multiple violations detected
+[2026-05-01 00:06:58] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:06:58] MULTI: Multiple violations detected
+[2026-05-01 00:06:58] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:06:58] MULTI: Multiple violations detected
+[2026-05-01 00:06:58] DEVICE: Detected device with confidence 0.84
+[2026-05-01 00:06:58] MULTI: Multiple violations detected
+[2026-05-01 00:06:58] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:06:58] MULTI: Multiple violations detected
+[2026-05-01 00:06:58] DEVICE: Detected device with confidence 0.85
+[2026-05-01 00:06:58] MULTI: Multiple violations detected
+[2026-05-01 00:06:58] DEVICE: Detected device with confidence 0.85
+[2026-05-01 00:06:58] MULTI: Multiple violations detected
+[2026-05-01 00:06:58] DEVICE: Detected device with confidence 0.74
+[2026-05-01 00:06:58] MULTI: Multiple violations detected
+[2026-05-01 00:06:59] DEVICE: Detected device with confidence 0.73
+[2026-05-01 00:06:59] MULTI: Multiple violations detected
+[2026-05-01 00:06:59] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:06:59] MULTI: Multiple violations detected
+[2026-05-01 00:06:59] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:06:59] MULTI: Multiple violations detected
+[2026-05-01 00:06:59] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:06:59] MULTI: Multiple violations detected
+[2026-05-01 00:06:59] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:06:59] MULTI: Multiple violations detected
+[2026-05-01 00:06:59] DEVICE: Detected device with confidence 0.68
+[2026-05-01 00:06:59] MULTI: Multiple violations detected
+[2026-05-01 00:06:59] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:06:59] MULTI: Multiple violations detected
+[2026-05-01 00:06:59] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:06:59] MULTI: Multiple violations detected
+[2026-05-01 00:06:59] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:00] MULTI: Multiple violations detected
+[2026-05-01 00:07:00] DEVICE: Detected device with confidence 0.71
+[2026-05-01 00:07:00] MULTI: Multiple violations detected
+[2026-05-01 00:07:00] DEVICE: Detected device with confidence 0.74
+[2026-05-01 00:07:00] MULTI: Multiple violations detected
+[2026-05-01 00:07:00] DEVICE: Detected device with confidence 0.62
+[2026-05-01 00:07:00] MULTI: Multiple violations detected
+[2026-05-01 00:07:00] DEVICE: Detected device with confidence 0.73
+[2026-05-01 00:07:00] MULTI: Multiple violations detected
+[2026-05-01 00:07:00] DEVICE: Detected device with confidence 0.71
+[2026-05-01 00:07:00] MULTI: Multiple violations detected
+[2026-05-01 00:07:00] DEVICE: Detected device with confidence 0.65
+[2026-05-01 00:07:00] MULTI: Multiple violations detected
+[2026-05-01 00:07:01] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:01] MULTI: Multiple violations detected
+[2026-05-01 00:07:01] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:01] MULTI: Multiple violations detected
+[2026-05-01 00:07:01] DEVICE: Detected device with confidence 0.67
+[2026-05-01 00:07:01] MULTI: Multiple violations detected
+[2026-05-01 00:07:01] DEVICE: Detected device with confidence 0.66
+[2026-05-01 00:07:01] MULTI: Multiple violations detected
+[2026-05-01 00:07:01] DEVICE: Detected device with confidence 0.55
+[2026-05-01 00:07:01] MULTI: Multiple violations detected
+[2026-05-01 00:07:01] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:07:01] MULTI: Multiple violations detected
+[2026-05-01 00:07:01] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:07:02] MULTI: Multiple violations detected
+[2026-05-01 00:07:02] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:07:02] MULTI: Multiple violations detected
+[2026-05-01 00:07:02] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:07:02] MULTI: Multiple violations detected
+[2026-05-01 00:07:02] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:02] MULTI: Multiple violations detected
+[2026-05-01 00:07:02] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:02] MULTI: Multiple violations detected
+[2026-05-01 00:07:02] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:07:02] MULTI: Multiple violations detected
+[2026-05-01 00:07:02] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:02] MULTI: Multiple violations detected
+[2026-05-01 00:07:02] DEVICE: Detected device with confidence 0.84
+[2026-05-01 00:07:02] MULTI: Multiple violations detected
+[2026-05-01 00:07:03] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:03] MULTI: Multiple violations detected
+[2026-05-01 00:07:03] DEVICE: Detected device with confidence 0.84
+[2026-05-01 00:07:03] MULTI: Multiple violations detected
+[2026-05-01 00:07:03] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:03] MULTI: Multiple violations detected
+[2026-05-01 00:07:03] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:03] MULTI: Multiple violations detected
+[2026-05-01 00:07:03] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:03] MULTI: Multiple violations detected
+[2026-05-01 00:07:03] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:03] MULTI: Multiple violations detected
+[2026-05-01 00:07:03] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:03] MULTI: Multiple violations detected
+[2026-05-01 00:07:04] DEVICE: Detected device with confidence 0.84
+[2026-05-01 00:07:04] MULTI: Multiple violations detected
+[2026-05-01 00:07:04] DEVICE: Detected device with confidence 0.84
+[2026-05-01 00:07:04] MULTI: Multiple violations detected
+[2026-05-01 00:07:04] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:04] MULTI: Multiple violations detected
+[2026-05-01 00:07:04] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:07:04] MULTI: Multiple violations detected
+[2026-05-01 00:07:04] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:04] MULTI: Multiple violations detected
+[2026-05-01 00:07:04] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:04] MULTI: Multiple violations detected
+[2026-05-01 00:07:04] DEVICE: Detected device with confidence 0.85
+[2026-05-01 00:07:04] MULTI: Multiple violations detected
+[2026-05-01 00:07:05] DEVICE: Detected device with confidence 0.84
+[2026-05-01 00:07:05] MULTI: Multiple violations detected
+[2026-05-01 00:07:05] DEVICE: Detected device with confidence 0.84
+[2026-05-01 00:07:05] MULTI: Multiple violations detected
+[2026-05-01 00:07:05] DEVICE: Detected device with confidence 0.84
+[2026-05-01 00:07:05] MULTI: Multiple violations detected
+[2026-05-01 00:07:05] DEVICE: Detected device with confidence 0.86
+[2026-05-01 00:07:05] MULTI: Multiple violations detected
+[2026-05-01 00:07:05] DEVICE: Detected device with confidence 0.86
+[2026-05-01 00:07:05] MULTI: Multiple violations detected
+[2026-05-01 00:07:05] DEVICE: Detected device with confidence 0.85
+[2026-05-01 00:07:05] MULTI: Multiple violations detected
+[2026-05-01 00:07:05] DEVICE: Detected device with confidence 0.84
+[2026-05-01 00:07:05] MULTI: Multiple violations detected
+[2026-05-01 00:07:06] DEVICE: Detected device with confidence 0.85
+[2026-05-01 00:07:06] MULTI: Multiple violations detected
+[2026-05-01 00:07:06] DEVICE: Detected device with confidence 0.85
+[2026-05-01 00:07:06] MULTI: Multiple violations detected
+[2026-05-01 00:07:06] DEVICE: Detected device with confidence 0.84
+[2026-05-01 00:07:06] MULTI: Multiple violations detected
+[2026-05-01 00:07:06] DEVICE: Detected device with confidence 0.85
+[2026-05-01 00:07:06] MULTI: Multiple violations detected
+[2026-05-01 00:07:06] DEVICE: Detected device with confidence 0.86
+[2026-05-01 00:07:06] MULTI: Multiple violations detected
+[2026-05-01 00:07:06] DEVICE: Detected device with confidence 0.85
+[2026-05-01 00:07:06] MULTI: Multiple violations detected
+[2026-05-01 00:07:06] DEVICE: Detected device with confidence 0.85
+[2026-05-01 00:07:06] MULTI: Multiple violations detected
+[2026-05-01 00:07:06] DEVICE: Detected device with confidence 0.85
+[2026-05-01 00:07:07] MULTI: Multiple violations detected
+[2026-05-01 00:07:07] DEVICE: Detected device with confidence 0.85
+[2026-05-01 00:07:07] MULTI: Multiple violations detected
+[2026-05-01 00:07:07] DEVICE: Detected device with confidence 0.86
+[2026-05-01 00:07:07] MULTI: Multiple violations detected
+[2026-05-01 00:07:07] DEVICE: Detected device with confidence 0.85
+[2026-05-01 00:07:07] MULTI: Multiple violations detected
+[2026-05-01 00:07:07] DEVICE: Detected device with confidence 0.86
+[2026-05-01 00:07:07] MULTI: Multiple violations detected
+[2026-05-01 00:07:07] DEVICE: Detected device with confidence 0.85
+[2026-05-01 00:07:07] MULTI: Multiple violations detected
+[2026-05-01 00:07:07] DEVICE: Detected device with confidence 0.84
+[2026-05-01 00:07:07] MULTI: Multiple violations detected
+[2026-05-01 00:07:07] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:07] MULTI: Multiple violations detected
+[2026-05-01 00:07:08] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:08] MULTI: Multiple violations detected
+[2026-05-01 00:07:08] DEVICE: Detected device with confidence 0.84
+[2026-05-01 00:07:08] MULTI: Multiple violations detected
+[2026-05-01 00:07:08] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:07:08] MULTI: Multiple violations detected
+[2026-05-01 00:07:08] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:07:08] MULTI: Multiple violations detected
+[2026-05-01 00:07:08] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:08] MULTI: Multiple violations detected
+[2026-05-01 00:07:08] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:08] MULTI: Multiple violations detected
+[2026-05-01 00:07:08] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:08] MULTI: Multiple violations detected
+[2026-05-01 00:07:09] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:07:09] MULTI: Multiple violations detected
+[2026-05-01 00:07:09] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:07:09] MULTI: Multiple violations detected
+[2026-05-01 00:07:09] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:09] MULTI: Multiple violations detected
+[2026-05-01 00:07:09] DEVICE: Detected device with confidence 0.73
+[2026-05-01 00:07:09] MULTI: Multiple violations detected
+[2026-05-01 00:07:09] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:09] MULTI: Multiple violations detected
+[2026-05-01 00:07:09] DEVICE: Detected device with confidence 0.72
+[2026-05-01 00:07:09] MULTI: Multiple violations detected
+[2026-05-01 00:07:09] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:07:09] MULTI: Multiple violations detected
+[2026-05-01 00:07:10] DEVICE: Detected device with confidence 0.70
+[2026-05-01 00:07:10] DEVICE: Detected device with confidence 0.55
+[2026-05-01 00:07:10] MULTI: Multiple violations detected
+[2026-05-01 00:07:10] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:07:10] MULTI: Multiple violations detected
+[2026-05-01 00:07:10] DEVICE: Detected device with confidence 0.73
+[2026-05-01 00:07:10] MULTI: Multiple violations detected
+[2026-05-01 00:07:10] DEVICE: Detected device with confidence 0.63
+[2026-05-01 00:07:10] MULTI: Multiple violations detected
+[2026-05-01 00:07:10] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:07:10] MULTI: Multiple violations detected
+[2026-05-01 00:07:10] DEVICE: Detected device with confidence 0.74
+[2026-05-01 00:07:10] MULTI: Multiple violations detected
+[2026-05-01 00:07:10] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:07:10] MULTI: Multiple violations detected
+[2026-05-01 00:07:11] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:07:11] MULTI: Multiple violations detected
+[2026-05-01 00:07:11] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:11] MULTI: Multiple violations detected
+[2026-05-01 00:07:11] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:11] MULTI: Multiple violations detected
+[2026-05-01 00:07:11] DEVICE: Detected device with confidence 0.75
+[2026-05-01 00:07:11] MULTI: Multiple violations detected
+[2026-05-01 00:07:11] DEVICE: Detected device with confidence 0.66
+[2026-05-01 00:07:11] MULTI: Multiple violations detected
+[2026-05-01 00:07:11] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:11] MULTI: Multiple violations detected
+[2026-05-01 00:07:11] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:07:11] MULTI: Multiple violations detected
+[2026-05-01 00:07:11] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:11] MULTI: Multiple violations detected
+[2026-05-01 00:07:12] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:07:12] MULTI: Multiple violations detected
+[2026-05-01 00:07:12] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:07:12] MULTI: Multiple violations detected
+[2026-05-01 00:07:12] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:07:12] MULTI: Multiple violations detected
+[2026-05-01 00:07:12] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:07:12] MULTI: Multiple violations detected
+[2026-05-01 00:07:12] DEVICE: Detected device with confidence 0.75
+[2026-05-01 00:07:12] MULTI: Multiple violations detected
+[2026-05-01 00:07:12] DEVICE: Detected device with confidence 0.71
+[2026-05-01 00:07:12] MULTI: Multiple violations detected
+[2026-05-01 00:07:13] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:07:13] MULTI: Multiple violations detected
+[2026-05-01 00:07:13] DEVICE: Detected device with confidence 0.75
+[2026-05-01 00:07:13] MULTI: Multiple violations detected
+[2026-05-01 00:07:13] DEVICE: Detected device with confidence 0.75
+[2026-05-01 00:07:13] MULTI: Multiple violations detected
+[2026-05-01 00:07:13] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:07:13] MULTI: Multiple violations detected
+[2026-05-01 00:07:13] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:13] MULTI: Multiple violations detected
+[2026-05-01 00:07:13] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:07:13] MULTI: Multiple violations detected
+[2026-05-01 00:07:13] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:13] MULTI: Multiple violations detected
+[2026-05-01 00:07:13] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:13] MULTI: Multiple violations detected
+[2026-05-01 00:07:14] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:14] MULTI: Multiple violations detected
+[2026-05-01 00:07:14] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:07:14] MULTI: Multiple violations detected
+[2026-05-01 00:07:14] DEVICE: Detected device with confidence 0.75
+[2026-05-01 00:07:14] MULTI: Multiple violations detected
+[2026-05-01 00:07:14] DEVICE: Detected device with confidence 0.55
+[2026-05-01 00:07:14] MULTI: Multiple violations detected
+[2026-05-01 00:07:14] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:14] MULTI: Multiple violations detected
+[2026-05-01 00:07:14] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:14] MULTI: Multiple violations detected
+[2026-05-01 00:07:14] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:14] MULTI: Multiple violations detected
+[2026-05-01 00:07:14] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:14] MULTI: Multiple violations detected
+[2026-05-01 00:07:15] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:07:15] MULTI: Multiple violations detected
+[2026-05-01 00:07:15] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:15] MULTI: Multiple violations detected
+[2026-05-01 00:07:15] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:07:15] MULTI: Multiple violations detected
+[2026-05-01 00:07:15] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:15] MULTI: Multiple violations detected
+[2026-05-01 00:07:15] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:07:15] MULTI: Multiple violations detected
+[2026-05-01 00:07:15] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:07:15] MULTI: Multiple violations detected
+[2026-05-01 00:07:15] DEVICE: Detected device with confidence 0.87
+[2026-05-01 00:07:15] MULTI: Multiple violations detected
+[2026-05-01 00:07:15] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:07:16] MULTI: Multiple violations detected
+[2026-05-01 00:07:16] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:16] MULTI: Multiple violations detected
+[2026-05-01 00:07:16] DEVICE: Detected device with confidence 0.85
+[2026-05-01 00:07:16] MULTI: Multiple violations detected
+[2026-05-01 00:07:16] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:16] MULTI: Multiple violations detected
+[2026-05-01 00:07:16] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:07:16] MULTI: Multiple violations detected
+[2026-05-01 00:07:16] DEVICE: Detected device with confidence 0.55
+[2026-05-01 00:07:16] MULTI: Multiple violations detected
+[2026-05-01 00:07:16] DEVICE: Detected device with confidence 0.84
+[2026-05-01 00:07:16] MULTI: Multiple violations detected
+[2026-05-01 00:07:17] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:17] MULTI: Multiple violations detected
+[2026-05-01 00:07:17] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:17] MULTI: Multiple violations detected
+[2026-05-01 00:07:17] DEVICE: Detected device with confidence 0.75
+[2026-05-01 00:07:17] MULTI: Multiple violations detected
+[2026-05-01 00:07:17] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:07:17] MULTI: Multiple violations detected
+[2026-05-01 00:07:17] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:07:17] MULTI: Multiple violations detected
+[2026-05-01 00:07:17] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:17] MULTI: Multiple violations detected
+[2026-05-01 00:07:17] DEVICE: Detected device with confidence 0.73
+[2026-05-01 00:07:17] MULTI: Multiple violations detected
+[2026-05-01 00:07:18] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:18] MULTI: Multiple violations detected
+[2026-05-01 00:07:18] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:07:18] MULTI: Multiple violations detected
+[2026-05-01 00:07:18] DEVICE: Detected device with confidence 0.74
+[2026-05-01 00:07:18] MULTI: Multiple violations detected
+[2026-05-01 00:07:18] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:07:18] MULTI: Multiple violations detected
+[2026-05-01 00:07:18] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:07:18] MULTI: Multiple violations detected
+[2026-05-01 00:07:18] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:18] MULTI: Multiple violations detected
+[2026-05-01 00:07:18] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:07:18] MULTI: Multiple violations detected
+[2026-05-01 00:07:18] DEVICE: Detected device with confidence 0.73
+[2026-05-01 00:07:18] MULTI: Multiple violations detected
+[2026-05-01 00:07:19] DEVICE: Detected device with confidence 0.75
+[2026-05-01 00:07:19] MULTI: Multiple violations detected
+[2026-05-01 00:07:19] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:07:19] MULTI: Multiple violations detected
+[2026-05-01 00:07:19] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:19] MULTI: Multiple violations detected
+[2026-05-01 00:07:19] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:07:19] MULTI: Multiple violations detected
+[2026-05-01 00:07:19] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:07:19] MULTI: Multiple violations detected
+[2026-05-01 00:07:19] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:07:19] MULTI: Multiple violations detected
+[2026-05-01 00:07:19] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:07:19] MULTI: Multiple violations detected
+[2026-05-01 00:07:20] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:07:20] MULTI: Multiple violations detected
+[2026-05-01 00:07:20] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:07:20] MULTI: Multiple violations detected
+[2026-05-01 00:07:20] DEVICE: Detected device with confidence 0.71
+[2026-05-01 00:07:20] MULTI: Multiple violations detected
+[2026-05-01 00:07:20] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:20] MULTI: Multiple violations detected
+[2026-05-01 00:07:20] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:07:20] MULTI: Multiple violations detected
+[2026-05-01 00:07:20] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:20] MULTI: Multiple violations detected
+[2026-05-01 00:07:21] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:21] MULTI: Multiple violations detected
+[2026-05-01 00:07:21] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:21] MULTI: Multiple violations detected
+[2026-05-01 00:07:21] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:07:21] MULTI: Multiple violations detected
+[2026-05-01 00:07:21] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:21] MULTI: Multiple violations detected
+[2026-05-01 00:07:21] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:21] MULTI: Multiple violations detected
+[2026-05-01 00:07:21] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:21] MULTI: Multiple violations detected
+[2026-05-01 00:07:21] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:21] MULTI: Multiple violations detected
+[2026-05-01 00:07:21] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:07:21] MULTI: Multiple violations detected
+[2026-05-01 00:07:22] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:22] MULTI: Multiple violations detected
+[2026-05-01 00:07:22] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:22] MULTI: Multiple violations detected
+[2026-05-01 00:07:22] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:22] MULTI: Multiple violations detected
+[2026-05-01 00:07:22] DEVICE: Detected device with confidence 0.84
+[2026-05-01 00:07:22] MULTI: Multiple violations detected
+[2026-05-01 00:07:22] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:22] MULTI: Multiple violations detected
+[2026-05-01 00:07:22] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:22] MULTI: Multiple violations detected
+[2026-05-01 00:07:22] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:22] MULTI: Multiple violations detected
+[2026-05-01 00:07:23] DEVICE: Detected device with confidence 0.84
+[2026-05-01 00:07:23] MULTI: Multiple violations detected
+[2026-05-01 00:07:23] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:07:23] MULTI: Multiple violations detected
+[2026-05-01 00:07:23] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:07:23] MULTI: Multiple violations detected
+[2026-05-01 00:07:23] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:23] MULTI: Multiple violations detected
+[2026-05-01 00:07:23] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:23] MULTI: Multiple violations detected
+[2026-05-01 00:07:23] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:07:23] MULTI: Multiple violations detected
+[2026-05-01 00:07:23] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:23] MULTI: Multiple violations detected
+[2026-05-01 00:07:24] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:24] MULTI: Multiple violations detected
+[2026-05-01 00:07:24] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:07:24] MULTI: Multiple violations detected
+[2026-05-01 00:07:24] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:24] MULTI: Multiple violations detected
+[2026-05-01 00:07:24] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:07:24] MULTI: Multiple violations detected
+[2026-05-01 00:07:24] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:07:24] MULTI: Multiple violations detected
+[2026-05-01 00:07:24] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:24] MULTI: Multiple violations detected
+[2026-05-01 00:07:24] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:07:24] MULTI: Multiple violations detected
+[2026-05-01 00:07:24] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:24] MULTI: Multiple violations detected
+[2026-05-01 00:07:25] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:25] MULTI: Multiple violations detected
+[2026-05-01 00:07:25] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:25] MULTI: Multiple violations detected
+[2026-05-01 00:07:25] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:25] MULTI: Multiple violations detected
+[2026-05-01 00:07:25] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:07:25] MULTI: Multiple violations detected
+[2026-05-01 00:07:25] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:07:25] MULTI: Multiple violations detected
+[2026-05-01 00:07:25] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:25] MULTI: Multiple violations detected
+[2026-05-01 00:07:26] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:26] MULTI: Multiple violations detected
+[2026-05-01 00:07:26] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:07:26] MULTI: Multiple violations detected
+[2026-05-01 00:07:26] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:26] MULTI: Multiple violations detected
+[2026-05-01 00:07:26] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:26] MULTI: Multiple violations detected
+[2026-05-01 00:07:26] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:26] MULTI: Multiple violations detected
+[2026-05-01 00:07:26] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:26] MULTI: Multiple violations detected
+[2026-05-01 00:07:26] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:07:26] MULTI: Multiple violations detected
+[2026-05-01 00:07:26] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:26] MULTI: Multiple violations detected
+[2026-05-01 00:07:27] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:27] MULTI: Multiple violations detected
+[2026-05-01 00:07:27] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:27] MULTI: Multiple violations detected
+[2026-05-01 00:07:27] DEVICE: Detected device with confidence 0.73
+[2026-05-01 00:07:27] MULTI: Multiple violations detected
+[2026-05-01 00:07:27] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:27] MULTI: Multiple violations detected
+[2026-05-01 00:07:27] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:07:27] MULTI: Multiple violations detected
+[2026-05-01 00:07:27] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:27] MULTI: Multiple violations detected
+[2026-05-01 00:07:27] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:27] MULTI: Multiple violations detected
+[2026-05-01 00:07:28] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:07:28] MULTI: Multiple violations detected
+[2026-05-01 00:07:28] DEVICE: Detected device with confidence 0.73
+[2026-05-01 00:07:28] MULTI: Multiple violations detected
+[2026-05-01 00:07:28] DEVICE: Detected device with confidence 0.74
+[2026-05-01 00:07:28] MULTI: Multiple violations detected
+[2026-05-01 00:07:28] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:28] MULTI: Multiple violations detected
+[2026-05-01 00:07:28] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:28] MULTI: Multiple violations detected
+[2026-05-01 00:07:28] DEVICE: Detected device with confidence 0.74
+[2026-05-01 00:07:28] MULTI: Multiple violations detected
+[2026-05-01 00:07:28] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:28] MULTI: Multiple violations detected
+[2026-05-01 00:07:29] DEVICE: Detected device with confidence 0.73
+[2026-05-01 00:07:29] MULTI: Multiple violations detected
+[2026-05-01 00:07:29] DEVICE: Detected device with confidence 0.70
+[2026-05-01 00:07:29] MULTI: Multiple violations detected
+[2026-05-01 00:07:29] DEVICE: Detected device with confidence 0.71
+[2026-05-01 00:07:29] MULTI: Multiple violations detected
+[2026-05-01 00:07:29] DEVICE: Detected device with confidence 0.74
+[2026-05-01 00:07:29] MULTI: Multiple violations detected
+[2026-05-01 00:07:29] DEVICE: Detected device with confidence 0.72
+[2026-05-01 00:07:29] MULTI: Multiple violations detected
+[2026-05-01 00:07:29] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:29] MULTI: Multiple violations detected
+[2026-05-01 00:07:29] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:07:29] MULTI: Multiple violations detected
+[2026-05-01 00:07:30] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:30] MULTI: Multiple violations detected
+[2026-05-01 00:07:30] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:07:30] MULTI: Multiple violations detected
+[2026-05-01 00:07:30] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:07:30] MULTI: Multiple violations detected
+[2026-05-01 00:07:30] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:30] MULTI: Multiple violations detected
+[2026-05-01 00:07:30] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:30] MULTI: Multiple violations detected
+[2026-05-01 00:07:30] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:30] MULTI: Multiple violations detected
+[2026-05-01 00:07:30] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:30] MULTI: Multiple violations detected
+[2026-05-01 00:07:31] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:31] MULTI: Multiple violations detected
+[2026-05-01 00:07:31] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:07:31] MULTI: Multiple violations detected
+[2026-05-01 00:07:31] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:07:31] MULTI: Multiple violations detected
+[2026-05-01 00:07:31] DEVICE: Detected device with confidence 0.84
+[2026-05-01 00:07:31] MULTI: Multiple violations detected
+[2026-05-01 00:07:31] DEVICE: Detected device with confidence 0.85
+[2026-05-01 00:07:31] MULTI: Multiple violations detected
+[2026-05-01 00:07:31] DEVICE: Detected device with confidence 0.86
+[2026-05-01 00:07:31] MULTI: Multiple violations detected
+[2026-05-01 00:07:31] DEVICE: Detected device with confidence 0.86
+[2026-05-01 00:07:31] MULTI: Multiple violations detected
+[2026-05-01 00:07:31] DEVICE: Detected device with confidence 0.92
+[2026-05-01 00:07:31] MULTI: Multiple violations detected
+[2026-05-01 00:07:32] DEVICE: Detected device with confidence 0.91
+[2026-05-01 00:07:32] MULTI: Multiple violations detected
+[2026-05-01 00:07:32] DEVICE: Detected device with confidence 0.93
+[2026-05-01 00:07:32] MULTI: Multiple violations detected
+[2026-05-01 00:07:32] DEVICE: Detected device with confidence 0.94
+[2026-05-01 00:07:32] MULTI: Multiple violations detected
+[2026-05-01 00:07:32] DEVICE: Detected device with confidence 0.91
+[2026-05-01 00:07:32] MULTI: Multiple violations detected
+[2026-05-01 00:07:32] DEVICE: Detected device with confidence 0.90
+[2026-05-01 00:07:32] MULTI: Multiple violations detected
+[2026-05-01 00:07:32] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:07:32] MULTI: Multiple violations detected
+[2026-05-01 00:07:32] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:32] MULTI: Multiple violations detected
+[2026-05-01 00:07:33] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:33] MULTI: Multiple violations detected
+[2026-05-01 00:07:33] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:07:33] MULTI: Multiple violations detected
+[2026-05-01 00:07:33] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:33] MULTI: Multiple violations detected
+[2026-05-01 00:07:33] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:33] MULTI: Multiple violations detected
+[2026-05-01 00:07:33] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:33] MULTI: Multiple violations detected
+[2026-05-01 00:07:33] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:33] MULTI: Multiple violations detected
+[2026-05-01 00:07:33] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:33] MULTI: Multiple violations detected
+[2026-05-01 00:07:33] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:07:33] MULTI: Multiple violations detected
+[2026-05-01 00:07:34] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:34] MULTI: Multiple violations detected
+[2026-05-01 00:07:34] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:07:34] MULTI: Multiple violations detected
+[2026-05-01 00:07:34] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:07:34] MULTI: Multiple violations detected
+[2026-05-01 00:07:34] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:34] MULTI: Multiple violations detected
+[2026-05-01 00:07:34] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:07:34] MULTI: Multiple violations detected
+[2026-05-01 00:07:34] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:34] MULTI: Multiple violations detected
+[2026-05-01 00:07:35] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:07:35] MULTI: Multiple violations detected
+[2026-05-01 00:07:35] DEVICE: Detected device with confidence 0.75
+[2026-05-01 00:07:35] MULTI: Multiple violations detected
+[2026-05-01 00:07:35] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:07:35] MULTI: Multiple violations detected
+[2026-05-01 00:07:35] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:07:35] MULTI: Multiple violations detected
+[2026-05-01 00:07:35] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:07:35] MULTI: Multiple violations detected
+[2026-05-01 00:07:35] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:35] MULTI: Multiple violations detected
+[2026-05-01 00:07:35] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:35] MULTI: Multiple violations detected
+[2026-05-01 00:07:35] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:35] MULTI: Multiple violations detected
+[2026-05-01 00:07:36] DEVICE: Detected device with confidence 0.86
+[2026-05-01 00:07:36] MULTI: Multiple violations detected
+[2026-05-01 00:07:36] DEVICE: Detected device with confidence 0.86
+[2026-05-01 00:07:36] MULTI: Multiple violations detected
+[2026-05-01 00:07:36] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:36] DEVICE: Detected device with confidence 0.50
+[2026-05-01 00:07:36] MULTI: Multiple violations detected
+[2026-05-01 00:07:36] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:36] MULTI: Multiple violations detected
+[2026-05-01 00:07:36] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:07:36] DEVICE: Detected device with confidence 0.54
+[2026-05-01 00:07:36] MULTI: Multiple violations detected
+[2026-05-01 00:07:36] DEVICE: Detected device with confidence 0.86
+[2026-05-01 00:07:36] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:07:36] MULTI: Multiple violations detected
+[2026-05-01 00:07:36] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:07:36] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:36] MULTI: Multiple violations detected
+[2026-05-01 00:07:37] DEVICE: Detected device with confidence 0.88
+[2026-05-01 00:07:37] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:37] MULTI: Multiple violations detected
+[2026-05-01 00:07:37] DEVICE: Detected device with confidence 0.88
+[2026-05-01 00:07:37] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:37] MULTI: Multiple violations detected
+[2026-05-01 00:07:37] DEVICE: Detected device with confidence 0.86
+[2026-05-01 00:07:37] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:07:37] MULTI: Multiple violations detected
+[2026-05-01 00:07:37] DEVICE: Detected device with confidence 0.86
+[2026-05-01 00:07:37] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:37] MULTI: Multiple violations detected
+[2026-05-01 00:07:37] DEVICE: Detected device with confidence 0.87
+[2026-05-01 00:07:37] DEVICE: Detected device with confidence 0.84
+[2026-05-01 00:07:37] MULTI: Multiple violations detected
+[2026-05-01 00:07:37] DEVICE: Detected device with confidence 0.85
+[2026-05-01 00:07:37] DEVICE: Detected device with confidence 0.85
+[2026-05-01 00:07:37] MULTI: Multiple violations detected
+[2026-05-01 00:07:37] DEVICE: Detected device with confidence 0.85
+[2026-05-01 00:07:37] DEVICE: Detected device with confidence 0.84
+[2026-05-01 00:07:37] MULTI: Multiple violations detected
+[2026-05-01 00:07:38] DEVICE: Detected device with confidence 0.84
+[2026-05-01 00:07:38] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:07:38] MULTI: Multiple violations detected
+[2026-05-01 00:07:38] DEVICE: Detected device with confidence 0.84
+[2026-05-01 00:07:38] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:07:38] MULTI: Multiple violations detected
+[2026-05-01 00:07:38] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:07:38] MULTI: Multiple violations detected
+[2026-05-01 00:07:38] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:07:38] MULTI: Multiple violations detected
+[2026-05-01 00:07:38] DEVICE: Detected device with confidence 0.62
+[2026-05-01 00:07:38] MULTI: Multiple violations detected
+[2026-05-01 00:07:38] DEVICE: Detected device with confidence 0.83
+[2026-05-01 00:07:38] MULTI: Multiple violations detected
+[2026-05-01 00:07:39] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:07:39] MULTI: Multiple violations detected
+[2026-05-01 00:07:39] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:07:39] MULTI: Multiple violations detected
+[2026-05-01 00:07:39] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:39] MULTI: Multiple violations detected
+[2026-05-01 00:07:39] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:07:39] MULTI: Multiple violations detected
+[2026-05-01 00:07:39] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:39] MULTI: Multiple violations detected
+[2026-05-01 00:07:39] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:39] MULTI: Multiple violations detected
+[2026-05-01 00:07:39] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:39] MULTI: Multiple violations detected
+[2026-05-01 00:07:40] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:40] MULTI: Multiple violations detected
+[2026-05-01 00:07:40] DEVICE: Detected device with confidence 0.81
+[2026-05-01 00:07:40] MULTI: Multiple violations detected
+[2026-05-01 00:07:40] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:07:40] MULTI: Multiple violations detected
+[2026-05-01 00:07:40] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:07:40] MULTI: Multiple violations detected
+[2026-05-01 00:07:40] DEVICE: Detected device with confidence 0.74
+[2026-05-01 00:07:40] MULTI: Multiple violations detected
+[2026-05-01 00:07:40] DEVICE: Detected device with confidence 0.67
+[2026-05-01 00:07:40] MULTI: Multiple violations detected
+[2026-05-01 00:07:40] DEVICE: Detected device with confidence 0.75
+[2026-05-01 00:07:41] MULTI: Multiple violations detected
+[2026-05-01 00:07:41] DEVICE: Detected device with confidence 0.75
+[2026-05-01 00:07:41] MULTI: Multiple violations detected
+[2026-05-01 00:07:41] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:07:41] MULTI: Multiple violations detected
+[2026-05-01 00:07:41] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:07:41] MULTI: Multiple violations detected
+[2026-05-01 00:07:41] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:07:41] DEVICE: Detected device with confidence 0.64
+[2026-05-01 00:07:41] MULTI: Multiple violations detected
+[2026-05-01 00:18:15] DEVICE: Detected device with confidence 0.57
+[2026-05-01 00:18:15] MULTI: Violations: DEVICE
+[2026-05-01 00:18:15] DEVICE: Detected device with confidence 0.74
+[2026-05-01 00:18:15] MULTI: Violations: DEVICE
+[2026-05-01 00:18:16] DEVICE: Detected device with confidence 0.51
+[2026-05-01 00:18:16] MULTI: Violations: DEVICE
+[2026-05-01 00:18:16] DEVICE: Detected device with confidence 0.67
+[2026-05-01 00:18:16] MULTI: Violations: DEVICE
+[2026-05-01 00:18:16] DEVICE: Detected device with confidence 0.63
+[2026-05-01 00:18:16] MULTI: Violations: DEVICE
+[2026-05-01 00:18:16] DEVICE: Detected device with confidence 0.69
+[2026-05-01 00:18:16] MULTI: Violations: DEVICE
+[2026-05-01 00:18:17] DEVICE: Detected device with confidence 0.52
+[2026-05-01 00:18:17] MULTI: Violations: DEVICE
+[2026-05-01 00:18:17] DEVICE: Detected device with confidence 0.62
+[2026-05-01 00:18:17] MULTI: Violations: DEVICE
+[2026-05-01 00:18:17] DEVICE: Detected device with confidence 0.72
+[2026-05-01 00:18:17] MULTI: Violations: DEVICE
+[2026-05-01 00:18:17] DEVICE: Detected device with confidence 0.75
+[2026-05-01 00:18:17] MULTI: Violations: DEVICE
+[2026-05-01 00:18:17] DEVICE: Detected device with confidence 0.71
+[2026-05-01 00:18:17] MULTI: Violations: DEVICE
+[2026-05-01 00:18:17] DEVICE: Detected device with confidence 0.72
+[2026-05-01 00:18:17] MULTI: Violations: DEVICE
+[2026-05-01 00:18:18] DEVICE: Detected device with confidence 0.72
+[2026-05-01 00:18:18] MULTI: Violations: DEVICE
+[2026-05-01 00:18:28] DEVICE: Detected device with confidence 0.55
+[2026-05-01 00:18:28] MULTI: Violations: DEVICE
+[2026-05-01 00:18:28] DEVICE: Detected device with confidence 0.51
+[2026-05-01 00:18:28] MULTI: Violations: DEVICE
+[2026-05-01 00:18:29] DEVICE: Detected device with confidence 0.62
+[2026-05-01 00:18:29] MULTI: Violations: DEVICE
+[2026-05-01 00:18:34] DEVICE: Detected device with confidence 0.58
+[2026-05-01 00:18:34] MULTI: Violations: DEVICE
+[2026-05-01 00:18:35] DEVICE: Detected device with confidence 0.54
+[2026-05-01 00:18:35] MULTI: Violations: DEVICE
+[2026-05-01 00:18:35] DEVICE: Detected device with confidence 0.51
+[2026-05-01 00:18:35] MULTI: Violations: DEVICE
+[2026-05-01 00:18:35] DEVICE: Detected device with confidence 0.51
+[2026-05-01 00:18:35] MULTI: Violations: DEVICE
+[2026-05-01 00:18:39] DEVICE: Detected device with confidence 0.55
+[2026-05-01 00:18:39] MULTI: Violations: DEVICE
+[2026-05-01 00:18:39] DEVICE: Detected device with confidence 0.52
+[2026-05-01 00:18:39] MULTI: Violations: DEVICE
+[2026-05-01 00:18:40] DEVICE: Detected device with confidence 0.54
+[2026-05-01 00:18:40] MULTI: Violations: DEVICE
+[2026-05-01 00:18:40] DEVICE: Detected device with confidence 0.65
+[2026-05-01 00:18:40] MULTI: Violations: DEVICE
+[2026-05-01 00:18:41] DEVICE: Detected device with confidence 0.58
+[2026-05-01 00:18:41] MULTI: Violations: DEVICE
+[2026-05-01 00:20:18] PROXIMITY: Face size ratio 1.54 indicates close proximity
+[2026-05-01 00:20:18] MULTI: Violations: PROXIMITY
+[2026-05-01 00:28:20] HEAD_TURN: Head turned 27.9 degrees
+[2026-05-01 00:28:20] MULTI: Violations: HEAD
+[2026-05-01 00:28:20] MULTI: Violations: HEAD
+[2026-05-01 00:29:28] PROXIMITY: Distance 69.0px below threshold
+[2026-05-01 00:29:28] MULTI: Violations: PROXIMITY
+[2026-05-01 00:29:36] PROXIMITY: Distance 6.1px below threshold
+[2026-05-01 00:29:36] MULTI: Violations: PROXIMITY
+[2026-05-01 00:29:52] PROXIMITY: Distance 0.0px below threshold
+[2026-05-01 00:29:52] MULTI: Violations: PROXIMITY
+[2026-05-01 00:29:54] PROXIMITY: Distance 8.9px below threshold
+[2026-05-01 00:29:54] MULTI: Violations: PROXIMITY
+[2026-05-01 00:29:54] PROXIMITY: Distance 5.4px below threshold
+[2026-05-01 00:29:54] MULTI: Violations: PROXIMITY
+[2026-05-01 00:29:55] PROXIMITY: Distance 4.5px below threshold
+[2026-05-01 00:29:55] MULTI: Violations: PROXIMITY
+[2026-05-01 00:34:23] HEAD_TURN: Head turned 0.4 degrees
+[2026-05-01 00:34:23] MULTI: Violations: HEAD
+[2026-05-01 00:34:23] MULTI: Violations: HEAD
+[2026-05-01 00:34:23] MULTI: Violations: HEAD
+[2026-05-01 00:34:23] MULTI: Violations: HEAD
+[2026-05-01 00:34:23] MULTI: Violations: HEAD
+[2026-05-01 00:34:24] MULTI: Violations: HEAD
+[2026-05-01 00:34:27] HEAD_TURN: Head turned 0.5 degrees
+[2026-05-01 00:34:27] MULTI: Violations: HEAD
+[2026-05-01 00:34:27] MULTI: Violations: HEAD
+[2026-05-01 00:34:27] MULTI: Violations: HEAD
+[2026-05-01 00:34:27] MULTI: Violations: HEAD
+[2026-05-01 00:34:27] MULTI: Violations: HEAD
+[2026-05-01 00:34:27] MULTI: Violations: HEAD
+[2026-05-01 00:34:27] MULTI: Violations: HEAD
+[2026-05-01 00:34:28] MULTI: Violations: HEAD
+[2026-05-01 00:34:28] MULTI: Violations: HEAD
+[2026-05-01 00:34:28] MULTI: Violations: HEAD
+[2026-05-01 00:34:28] MULTI: Violations: HEAD
+[2026-05-01 00:34:28] MULTI: Violations: HEAD
+[2026-05-01 00:34:28] MULTI: Violations: HEAD
+[2026-05-01 00:34:28] MULTI: Violations: HEAD
+[2026-05-01 00:34:28] MULTI: Violations: HEAD
+[2026-05-01 00:34:28] MULTI: Violations: HEAD
+[2026-05-01 00:34:28] MULTI: Violations: HEAD
+[2026-05-01 00:34:28] MULTI: Violations: HEAD
+[2026-05-01 00:34:29] MULTI: Violations: HEAD
+[2026-05-01 00:34:29] MULTI: Violations: HEAD
+[2026-05-01 00:34:29] MULTI: Violations: HEAD
+[2026-05-01 00:34:29] MULTI: Violations: HEAD
+[2026-05-01 00:34:41] HEAD_TURN: Head turned 0.4 degrees
+[2026-05-01 00:34:41] MULTI: Violations: HEAD
+[2026-05-01 00:34:41] MULTI: Violations: HEAD
+[2026-05-01 00:34:41] MULTI: Violations: HEAD
+[2026-05-01 00:34:41] MULTI: Violations: HEAD
+[2026-05-01 00:34:41] MULTI: Violations: HEAD
+[2026-05-01 00:34:41] MULTI: Violations: HEAD
+[2026-05-01 00:34:42] MULTI: Violations: HEAD
+[2026-05-01 00:34:42] MULTI: Violations: HEAD
+[2026-05-01 00:34:43] HEAD_TURN: Head turned 0.7 degrees
+[2026-05-01 00:34:43] MULTI: Violations: HEAD
+[2026-05-01 00:34:43] MULTI: Violations: HEAD
+[2026-05-01 00:34:43] MULTI: Violations: HEAD
+[2026-05-01 00:34:43] MULTI: Violations: HEAD
+[2026-05-01 00:34:44] MULTI: Violations: HEAD
+[2026-05-01 00:34:44] MULTI: Violations: HEAD
+[2026-05-01 00:34:44] MULTI: Violations: HEAD
+[2026-05-01 00:34:44] MULTI: Violations: HEAD
+[2026-05-01 00:34:44] MULTI: Violations: HEAD
+[2026-05-01 00:34:44] MULTI: Violations: HEAD
+[2026-05-01 00:34:44] MULTI: Violations: HEAD
+[2026-05-01 00:34:47] HEAD_TURN: Head turned 0.1 degrees
+[2026-05-01 00:34:47] MULTI: Violations: HEAD
+[2026-05-01 00:34:48] MULTI: Violations: HEAD
+[2026-05-01 00:34:48] MULTI: Violations: HEAD
+[2026-05-01 00:34:48] MULTI: Violations: HEAD
+[2026-05-01 00:34:48] MULTI: Violations: HEAD
+[2026-05-01 00:34:48] MULTI: Violations: HEAD
+[2026-05-01 00:34:48] MULTI: Violations: HEAD
+[2026-05-01 00:34:48] MULTI: Violations: HEAD
+[2026-05-01 00:34:49] MULTI: Violations: HEAD
+[2026-05-01 00:34:49] MULTI: Violations: HEAD
+[2026-05-01 00:34:49] MULTI: Violations: HEAD
+[2026-05-01 00:34:49] MULTI: Violations: HEAD
+[2026-05-01 00:34:49] MULTI: Violations: HEAD
+[2026-05-01 00:34:49] MULTI: Violations: HEAD
+[2026-05-01 00:34:49] MULTI: Violations: HEAD
+[2026-05-01 00:34:49] MULTI: Violations: HEAD
+[2026-05-01 00:34:56] HEAD_TURN: Head turned 0.1 degrees
+[2026-05-01 00:34:56] MULTI: Violations: HEAD
+[2026-05-01 00:34:56] MULTI: Violations: HEAD
+[2026-05-01 00:34:56] MULTI: Violations: HEAD
+[2026-05-01 00:34:57] MULTI: Violations: HEAD
+[2026-05-01 00:34:57] MULTI: Violations: HEAD
+[2026-05-01 00:34:57] MULTI: Violations: HEAD
+[2026-05-01 00:34:57] MULTI: Violations: HEAD
+[2026-05-01 00:34:57] MULTI: Violations: HEAD
+[2026-05-01 00:34:57] MULTI: Violations: HEAD
+[2026-05-01 00:34:57] MULTI: Violations: HEAD
+[2026-05-01 00:35:02] HEAD_TURN: Head turned 0.1 degrees
+[2026-05-01 00:35:02] MULTI: Violations: HEAD
+[2026-05-01 00:35:03] MULTI: Violations: HEAD
+[2026-05-01 00:35:03] MULTI: Violations: HEAD
+[2026-05-01 00:35:03] MULTI: Violations: HEAD
+[2026-05-01 00:35:03] MULTI: Violations: HEAD
+[2026-05-01 00:35:03] MULTI: Violations: HEAD
+[2026-05-01 00:35:03] MULTI: Violations: HEAD
+[2026-05-01 00:35:04] MULTI: Violations: HEAD
+[2026-05-01 00:35:04] MULTI: Violations: HEAD
+[2026-05-01 00:35:04] MULTI: Violations: HEAD
+[2026-05-01 00:35:04] MULTI: Violations: HEAD
+[2026-05-01 00:35:04] MULTI: Violations: HEAD
+[2026-05-01 00:35:04] MULTI: Violations: HEAD
+[2026-05-01 00:35:04] MULTI: Violations: HEAD
+[2026-05-01 00:35:05] MULTI: Violations: HEAD
+[2026-05-01 00:35:05] MULTI: Violations: HEAD
+[2026-05-01 00:35:05] MULTI: Violations: HEAD
+[2026-05-01 00:35:05] MULTI: Violations: HEAD
+[2026-05-01 00:35:05] MULTI: Violations: HEAD
+[2026-05-01 00:35:05] MULTI: Violations: HEAD
+[2026-05-01 00:35:05] MULTI: Violations: HEAD
+[2026-05-01 00:35:05] MULTI: Violations: HEAD
+[2026-05-01 00:35:06] MULTI: Violations: HEAD
+[2026-05-01 00:35:06] MULTI: Violations: HEAD
+[2026-05-01 00:35:06] MULTI: Violations: HEAD
+[2026-05-01 00:35:06] MULTI: Violations: HEAD
+[2026-05-01 00:38:32] HEAD_TURN: Head turned 0.5 degrees
+[2026-05-01 00:38:32] MULTI: Violations: HEAD
+[2026-05-01 00:38:32] MULTI: Violations: HEAD
+[2026-05-01 00:38:32] MULTI: Violations: HEAD
+[2026-05-01 00:38:32] MULTI: Violations: HEAD
+[2026-05-01 00:38:32] MULTI: Violations: HEAD
+[2026-05-01 00:38:32] MULTI: Violations: HEAD
+[2026-05-01 00:38:32] MULTI: Violations: HEAD
+[2026-05-01 00:38:33] MULTI: Violations: HEAD
+[2026-05-01 00:38:33] MULTI: Violations: HEAD
+[2026-05-01 00:38:33] MULTI: Violations: HEAD
+[2026-05-01 00:38:33] MULTI: Violations: HEAD
+[2026-05-01 00:38:33] MULTI: Violations: HEAD
+[2026-05-01 00:38:33] MULTI: Violations: HEAD
+[2026-05-01 00:38:35] HEAD_TURN: Head turned 0.7 degrees
+[2026-05-01 00:38:35] MULTI: Violations: HEAD
+[2026-05-01 00:38:35] MULTI: Violations: HEAD
+[2026-05-01 00:38:35] MULTI: Violations: HEAD
+[2026-05-01 00:38:35] MULTI: Violations: HEAD
+[2026-05-01 00:38:35] MULTI: Violations: HEAD
+[2026-05-01 00:38:35] MULTI: Violations: HEAD
+[2026-05-01 00:38:35] MULTI: Violations: HEAD
+[2026-05-01 00:38:35] MULTI: Violations: HEAD
+[2026-05-01 00:38:36] MULTI: Violations: HEAD
+[2026-05-01 00:38:36] MULTI: Violations: HEAD
+[2026-05-01 00:38:36] MULTI: Violations: HEAD
+[2026-05-01 00:38:36] MULTI: Violations: HEAD
+[2026-05-01 00:38:36] MULTI: Violations: HEAD
+[2026-05-01 00:38:36] MULTI: Violations: HEAD
+[2026-05-01 00:38:36] MULTI: Violations: HEAD
+[2026-05-01 00:38:36] MULTI: Violations: HEAD
+[2026-05-01 00:38:36] MULTI: Violations: HEAD
+[2026-05-01 00:38:37] MULTI: Violations: HEAD
+[2026-05-01 00:38:37] MULTI: Violations: HEAD
+[2026-05-01 00:38:37] MULTI: Violations: HEAD
+[2026-05-01 00:38:37] MULTI: Violations: HEAD
+[2026-05-01 00:38:37] MULTI: Violations: HEAD
+[2026-05-01 00:38:37] MULTI: Violations: HEAD
+[2026-05-01 00:38:37] MULTI: Violations: HEAD
+[2026-05-01 00:38:37] MULTI: Violations: HEAD
+[2026-05-01 00:38:37] MULTI: Violations: HEAD
+[2026-05-01 00:38:37] MULTI: Violations: HEAD
+[2026-05-01 00:38:38] MULTI: Violations: HEAD
+[2026-05-01 00:38:38] MULTI: Violations: HEAD
+[2026-05-01 00:38:38] DEVICE: Detected device with confidence 0.33
+[2026-05-01 00:38:38] MULTI: Violations: DEVICE
+[2026-05-01 00:38:41] NO_FACE: No face detected in frame
+[2026-05-01 00:38:41] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:41] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:41] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:41] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:41] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:41] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:42] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:42] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:42] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:42] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:42] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:42] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:42] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:42] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:42] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:42] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:42] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:42] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:42] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:43] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:43] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:43] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:43] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:43] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:43] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:43] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:43] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:43] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:43] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:43] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:43] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:43] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:44] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:44] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:44] MULTI: Violations: NO_FACE
+[2026-05-01 00:38:48] DEVICE: Detected device with confidence 0.29
+[2026-05-01 00:38:48] MULTI: Violations: DEVICE
+[2026-05-01 00:38:48] DEVICE: Detected device with confidence 0.35
+[2026-05-01 00:38:48] MULTI: Violations: DEVICE
+[2026-05-01 00:38:48] HEAD_TURN: Head turned 0.1 degrees
+[2026-05-01 00:38:48] MULTI: Violations: HEAD
+[2026-05-01 00:38:48] DEVICE: Detected device with confidence 0.54
+[2026-05-01 00:38:48] MULTI: Violations: HEAD | DEVICE
+[2026-05-01 00:38:48] DEVICE: Detected device with confidence 0.29
+[2026-05-01 00:38:48] MULTI: Violations: HEAD | DEVICE
+[2026-05-01 00:38:49] DEVICE: Detected device with confidence 0.47
+[2026-05-01 00:38:49] MULTI: Violations: HEAD | DEVICE
+[2026-05-01 00:38:49] MULTI: Violations: HEAD
+[2026-05-01 00:38:49] MULTI: Violations: HEAD
+[2026-05-01 00:38:49] MULTI: Violations: HEAD
+[2026-05-01 00:38:49] MULTI: Violations: HEAD
+[2026-05-01 00:38:49] MULTI: Violations: HEAD
+[2026-05-01 00:38:49] MULTI: Violations: HEAD
+[2026-05-01 00:38:49] MULTI: Violations: HEAD
+[2026-05-01 00:38:50] MULTI: Violations: HEAD
+[2026-05-01 00:38:50] MULTI: Violations: HEAD
+[2026-05-01 00:38:58] DEVICE: Detected device with confidence 0.27
+[2026-05-01 00:38:58] MULTI: Violations: DEVICE
+[2026-05-01 00:38:58] DEVICE: Detected device with confidence 0.32
+[2026-05-01 00:38:58] MULTI: Violations: DEVICE
+[2026-05-01 00:38:58] DEVICE: Detected device with confidence 0.39
+[2026-05-01 00:38:58] MULTI: Violations: DEVICE
+[2026-05-01 00:38:59] DEVICE: Detected device with confidence 0.41
+[2026-05-01 00:38:59] MULTI: Violations: DEVICE
+[2026-05-01 00:38:59] DEVICE: Detected device with confidence 0.56
+[2026-05-01 00:38:59] MULTI: Violations: DEVICE
+[2026-05-01 00:38:59] DEVICE: Detected device with confidence 0.36
+[2026-05-01 00:38:59] MULTI: Violations: DEVICE
+[2026-05-01 00:38:59] DEVICE: Detected device with confidence 0.35
+[2026-05-01 00:38:59] MULTI: Violations: DEVICE
+[2026-05-01 00:42:03] DEVICE: Detected device with confidence 0.86
+[2026-05-01 00:42:03] MULTI: Violations: DEVICE
+[2026-05-01 00:42:03] DEVICE: Detected device with confidence 0.85
+[2026-05-01 00:42:03] MULTI: Violations: DEVICE
+[2026-05-01 00:42:03] DEVICE: Detected device with confidence 0.85
+[2026-05-01 00:42:03] MULTI: Violations: DEVICE
+[2026-05-01 00:42:03] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:42:03] MULTI: Violations: DEVICE
+[2026-05-01 00:42:03] DEVICE: Detected device with confidence 0.74
+[2026-05-01 00:42:03] MULTI: Violations: DEVICE
+[2026-05-01 00:42:03] DEVICE: Detected device with confidence 0.73
+[2026-05-01 00:42:03] MULTI: Violations: DEVICE
+[2026-05-01 00:42:03] DEVICE: Detected device with confidence 0.75
+[2026-05-01 00:42:03] MULTI: Violations: DEVICE
+[2026-05-01 00:42:03] DEVICE: Detected device with confidence 0.64
+[2026-05-01 00:42:03] MULTI: Violations: DEVICE
+[2026-05-01 00:42:03] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:42:03] MULTI: Violations: DEVICE
+[2026-05-01 00:42:04] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:42:04] MULTI: Violations: DEVICE
+[2026-05-01 00:42:04] DEVICE: Detected device with confidence 0.74
+[2026-05-01 00:42:04] MULTI: Violations: DEVICE
+[2026-05-01 00:42:04] DEVICE: Detected device with confidence 0.74
+[2026-05-01 00:42:04] MULTI: Violations: DEVICE
+[2026-05-01 00:42:04] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:42:04] MULTI: Violations: DEVICE
+[2026-05-01 00:42:04] DEVICE: Detected device with confidence 0.82
+[2026-05-01 00:42:04] MULTI: Violations: DEVICE
+[2026-05-01 00:42:04] DEVICE: Detected device with confidence 0.84
+[2026-05-01 00:42:04] MULTI: Violations: DEVICE
+[2026-05-01 00:42:04] DEVICE: Detected device with confidence 0.80
+[2026-05-01 00:42:04] MULTI: Violations: DEVICE
+[2026-05-01 00:42:04] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:42:04] MULTI: Violations: DEVICE
+[2026-05-01 00:42:04] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:42:04] MULTI: Violations: DEVICE
+[2026-05-01 00:42:04] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:42:04] MULTI: Violations: DEVICE
+[2026-05-01 00:42:04] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:42:04] MULTI: Violations: DEVICE
+[2026-05-01 00:42:04] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:42:04] MULTI: Violations: DEVICE
+[2026-05-01 00:42:05] DEVICE: Detected device with confidence 0.72
+[2026-05-01 00:42:05] MULTI: Violations: DEVICE
+[2026-05-01 00:42:05] NO_FACE: No face detected in frame
+[2026-05-01 00:42:05] DEVICE: Detected device with confidence 0.71
+[2026-05-01 00:42:05] MULTI: Violations: DEVICE | NO_FACE
+[2026-05-01 00:42:05] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:42:05] MULTI: Violations: DEVICE | NO_FACE
+[2026-05-01 00:42:05] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:42:05] MULTI: Violations: DEVICE | NO_FACE
+[2026-05-01 00:42:05] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:42:05] MULTI: Violations: DEVICE | NO_FACE
+[2026-05-01 00:42:05] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:42:05] MULTI: Violations: DEVICE | NO_FACE
+[2026-05-01 00:42:05] DEVICE: Detected device with confidence 0.78
+[2026-05-01 00:42:05] MULTI: Violations: DEVICE | NO_FACE
+[2026-05-01 00:42:05] DEVICE: Detected device with confidence 0.77
+[2026-05-01 00:42:05] MULTI: Violations: DEVICE | NO_FACE
+[2026-05-01 00:42:05] DEVICE: Detected device with confidence 0.79
+[2026-05-01 00:42:05] MULTI: Violations: DEVICE | NO_FACE
+[2026-05-01 00:42:05] DEVICE: Detected device with confidence 0.76
+[2026-05-01 00:42:05] MULTI: Violations: DEVICE | NO_FACE
+[2026-05-01 00:42:05] DEVICE: Detected device with confidence 0.74
+[2026-05-01 00:42:05] MULTI: Violations: DEVICE | NO_FACE
+[2026-05-01 00:42:05] DEVICE: Detected device with confidence 0.73
+[2026-05-01 00:42:05] MULTI: Violations: DEVICE
+[2026-05-01 00:42:06] DEVICE: Detected device with confidence 0.70
+[2026-05-01 00:42:06] MULTI: Violations: DEVICE
+[2026-05-01 00:42:06] DEVICE: Detected device with confidence 0.43
+[2026-05-01 00:42:06] MULTI: Violations: DEVICE
+[2026-05-01 00:42:06] DEVICE: Detected device with confidence 0.52
+[2026-05-01 00:42:06] MULTI: Violations: DEVICE
+[2026-05-01 00:42:06] DEVICE: Detected device with confidence 0.57
+[2026-05-01 00:42:06] MULTI: Violations: DEVICE
+[2026-05-01 00:42:06] DEVICE: Detected device with confidence 0.67
+[2026-05-01 00:42:06] MULTI: Violations: DEVICE
+[2026-05-01 00:42:06] DEVICE: Detected device with confidence 0.41
+[2026-05-01 00:42:06] MULTI: Violations: DEVICE
+[2026-05-01 00:42:08] HEAD_TURN: Head turned 0.1 degrees
+[2026-05-01 00:42:08] MULTI: Violations: HEAD
+[2026-05-01 00:42:08] MULTI: Violations: HEAD
+[2026-05-01 00:42:08] MULTI: Violations: HEAD
+[2026-05-01 00:42:08] MULTI: Violations: HEAD
+[2026-05-01 00:42:08] MULTI: Violations: HEAD
+[2026-05-01 00:42:08] MULTI: Violations: HEAD
+[2026-05-01 00:42:08] MULTI: Violations: HEAD
+[2026-05-01 00:42:09] MULTI: Violations: HEAD
+[2026-05-01 00:42:09] MULTI: Violations: HEAD
+[2026-05-01 00:42:09] MULTI: Violations: HEAD
+[2026-05-01 00:42:09] MULTI: Violations: HEAD
+[2026-05-01 00:42:09] MULTI: Violations: HEAD
+[2026-05-01 00:42:09] MULTI: Violations: HEAD
+[2026-05-01 00:42:09] MULTI: Violations: HEAD
+[2026-05-01 00:42:09] MULTI: Violations: HEAD
+[2026-05-01 00:42:09] MULTI: Violations: HEAD
+[2026-05-01 00:42:10] MULTI: Violations: HEAD
+[2026-05-01 00:42:10] MULTI: Violations: HEAD
+[2026-05-01 00:42:10] MULTI: Violations: HEAD
+[2026-05-01 00:42:10] MULTI: Violations: HEAD
+[2026-05-01 00:42:10] MULTI: Violations: HEAD
+[2026-05-01 00:42:10] MULTI: Violations: HEAD
+[2026-05-01 00:42:10] MULTI: Violations: HEAD
+[2026-05-01 00:42:10] MULTI: Violations: HEAD
+[2026-05-01 00:42:10] MULTI: Violations: HEAD
+[2026-05-01 00:42:10] MULTI: Violations: HEAD
+[2026-05-01 00:42:11] MULTI: Violations: HEAD
+[2026-05-01 00:42:11] MULTI: Violations: HEAD
+[2026-05-01 00:42:11] MULTI: Violations: HEAD
+[2026-05-01 00:42:11] MULTI: Violations: HEAD
+[2026-05-01 00:42:11] MULTI: Violations: HEAD
+[2026-05-01 00:42:11] MULTI: Violations: HEAD
+[2026-05-01 00:42:11] MULTI: Violations: HEAD
+[2026-05-01 00:42:11] MULTI: Violations: HEAD
+[2026-05-01 00:42:11] MULTI: Violations: HEAD
+[2026-05-01 00:42:11] MULTI: Violations: HEAD
+[2026-05-01 00:42:12] MULTI: Violations: HEAD
+[2026-05-01 00:42:12] MULTI: Violations: HEAD
+[2026-05-01 00:42:16] HEAD_TURN: Head turned 0.3 degrees
+[2026-05-01 00:42:16] MULTI: Violations: HEAD
+[2026-05-01 00:42:16] MULTI: Violations: HEAD
+[2026-05-01 00:42:16] MULTI: Violations: HEAD
+[2026-05-01 00:42:16] MULTI: Violations: HEAD
+[2026-05-01 00:42:16] MULTI: Violations: HEAD
+[2026-05-01 00:42:16] MULTI: Violations: HEAD
+[2026-05-01 00:42:16] MULTI: Violations: HEAD
+[2026-05-01 00:42:17] MULTI: Violations: HEAD
+[2026-05-01 00:42:17] MULTI: Violations: HEAD
+[2026-05-01 00:42:17] MULTI: Violations: HEAD
+[2026-05-01 00:42:17] MULTI: Violations: HEAD
+[2026-05-01 00:42:17] MULTI: Violations: HEAD
+[2026-05-01 00:42:17] MULTI: Violations: HEAD
+[2026-05-01 00:42:17] MULTI: Violations: HEAD
+[2026-05-01 00:42:19] HEAD_TURN: Head turned 0.9 degrees
+[2026-05-01 00:42:20] MULTI: Violations: HEAD
+[2026-05-01 00:42:20] MULTI: Violations: HEAD
+[2026-05-01 00:42:20] MULTI: Violations: HEAD
+[2026-05-01 00:42:20] MULTI: Violations: HEAD
+[2026-05-01 00:42:20] MULTI: Violations: HEAD
+[2026-05-01 00:42:20] MULTI: Violations: HEAD
+[2026-05-01 00:42:20] MULTI: Violations: HEAD
+[2026-05-01 00:42:20] MULTI: Violations: HEAD
+[2026-05-01 00:42:20] MULTI: Violations: HEAD
+[2026-05-01 00:42:20] MULTI: Violations: HEAD
+[2026-05-01 00:42:21] MULTI: Violations: HEAD
+[2026-05-01 00:42:21] MULTI: Violations: HEAD
+[2026-05-01 00:42:21] MULTI: Violations: HEAD
+[2026-05-01 00:42:21] MULTI: Violations: HEAD
+[2026-05-01 00:42:21] MULTI: Violations: HEAD
+[2026-05-01 00:42:23] HEAD_TURN: Head turned 0.1 degrees
+[2026-05-01 00:42:23] MULTI: Violations: HEAD
+[2026-05-01 00:42:23] MULTI: Violations: HEAD
+[2026-05-01 00:42:23] MULTI: Violations: HEAD
+[2026-05-01 00:42:23] MULTI: Violations: HEAD
+[2026-05-01 00:42:23] MULTI: Violations: HEAD
+[2026-05-01 00:42:25] HEAD_TURN: Head turned 0.1 degrees
+[2026-05-01 00:42:25] MULTI: Violations: HEAD
+[2026-05-01 00:42:25] MULTI: Violations: HEAD
+[2026-05-01 00:42:29] HEAD_TURN: Head turned 0.2 degrees
+[2026-05-01 00:42:30] MULTI: Violations: HEAD
+[2026-05-01 00:42:30] MULTI: Violations: HEAD
+[2026-05-01 00:42:30] MULTI: Violations: HEAD
+[2026-05-01 00:42:30] MULTI: Violations: HEAD
+[2026-05-01 00:42:30] MULTI: Violations: HEAD
+[2026-05-01 00:42:30] MULTI: Violations: HEAD
+[2026-05-01 00:42:30] MULTI: Violations: HEAD
+[2026-05-01 00:42:30] MULTI: Violations: HEAD
+[2026-05-01 00:42:31] MULTI: Violations: HEAD
+[2026-05-01 00:42:32] HEAD_TURN: Head turned 0.1 degrees
+[2026-05-01 00:42:32] MULTI: Violations: HEAD
+[2026-05-01 00:42:32] MULTI: Violations: HEAD
+[2026-05-01 00:42:32] MULTI: Violations: HEAD
+[2026-05-01 00:42:32] MULTI: Violations: HEAD
+[2026-05-01 00:42:32] MULTI: Violations: HEAD
+[2026-05-01 00:42:33] MULTI: Violations: HEAD
+[2026-05-01 00:42:33] MULTI: Violations: HEAD
+[2026-05-01 00:42:33] MULTI: Violations: HEAD
+[2026-05-01 00:42:33] MULTI: Violations: HEAD
+[2026-05-01 00:42:33] MULTI: Violations: HEAD
+[2026-05-01 00:42:33] MULTI: Violations: HEAD
+[2026-05-01 00:42:33] MULTI: Violations: HEAD
+[2026-05-01 00:42:34] DEVICE: Detected device with confidence 0.25
+[2026-05-01 00:42:34] MULTI: Violations: HEAD | DEVICE
+[2026-05-01 00:42:34] MULTI: Violations: HEAD
+[2026-05-01 00:42:34] MULTI: Violations: HEAD
+[2026-05-01 00:42:34] DEVICE: Detected device with confidence 0.25
+[2026-05-01 00:42:34] MULTI: Violations: HEAD | DEVICE
+[2026-05-01 00:42:34] DEVICE: Detected device with confidence 0.27
+[2026-05-01 00:42:34] DEVICE: Detected device with confidence 0.26
+[2026-05-01 00:42:34] MULTI: Violations: HEAD | DEVICE
+[2026-05-01 00:42:34] MULTI: Violations: HEAD
+[2026-05-01 00:42:34] MULTI: Violations: HEAD
+[2026-05-01 00:42:35] MULTI: Violations: HEAD
+[2026-05-01 00:42:35] MULTI: Violations: HEAD
+[2026-05-01 00:42:35] MULTI: Violations: HEAD
+[2026-05-01 00:42:35] MULTI: Violations: HEAD
+[2026-05-01 00:42:35] MULTI: Violations: HEAD
+[2026-05-01 00:42:35] MULTI: Violations: HEAD
+[2026-05-01 00:42:35] MULTI: Violations: HEAD
+[2026-05-01 00:42:36] MULTI: Violations: HEAD
+[2026-05-01 00:43:44] DEVICE: Detected device with confidence 0.25
+[2026-05-01 00:43:44] MULTI: Violations: DEVICE
+[2026-05-01 00:43:44] DEVICE: Detected device with confidence 0.28
+[2026-05-01 00:43:44] MULTI: Violations: DEVICE
+[2026-05-01 00:43:44] DEVICE: Detected device with confidence 0.42
+[2026-05-01 00:43:44] MULTI: Violations: DEVICE
+[2026-05-01 00:43:44] DEVICE: Detected device with confidence 0.41
+[2026-05-01 00:43:44] MULTI: Violations: DEVICE
+[2026-05-01 00:43:44] DEVICE: Detected device with confidence 0.41
+[2026-05-01 00:43:44] MULTI: Violations: DEVICE
+[2026-05-01 00:43:44] DEVICE: Detected device with confidence 0.25
+[2026-05-01 00:43:44] MULTI: Violations: DEVICE
+[2026-05-01 00:43:45] DEVICE: Detected device with confidence 0.33
+[2026-05-01 00:43:45] MULTI: Violations: DEVICE
+[2026-05-01 00:43:45] DEVICE: Detected device with confidence 0.36
+[2026-05-01 00:43:45] MULTI: Violations: DEVICE
+[2026-05-01 00:43:45] DEVICE: Detected device with confidence 0.42
+[2026-05-01 00:43:45] MULTI: Violations: DEVICE
+[2026-05-01 00:43:45] DEVICE: Detected device with confidence 0.51
+[2026-05-01 00:43:45] MULTI: Violations: DEVICE
+[2026-05-01 00:43:46] DEVICE: Detected device with confidence 0.48
+[2026-05-01 00:43:46] MULTI: Violations: DEVICE
+[2026-05-01 00:43:46] DEVICE: Detected device with confidence 0.29
+[2026-05-01 00:43:46] MULTI: Violations: DEVICE
+[2026-05-01 00:43:47] DEVICE: Detected device with confidence 0.30
+[2026-05-01 00:43:47] MULTI: Violations: DEVICE
+[2026-05-01 00:43:47] DEVICE: Detected device with confidence 0.39
+[2026-05-01 00:43:47] MULTI: Violations: DEVICE
+[2026-05-01 00:43:47] DEVICE: Detected device with confidence 0.54
+[2026-05-01 00:43:47] MULTI: Violations: DEVICE
+[2026-05-01 00:43:48] DEVICE: Detected device with confidence 0.26
+[2026-05-01 00:43:48] MULTI: Violations: DEVICE
+[2026-05-01 00:43:48] DEVICE: Detected device with confidence 0.29
+[2026-05-01 00:43:48] MULTI: Violations: DEVICE
+[2026-05-01 00:43:49] DEVICE: Detected device with confidence 0.26
+[2026-05-01 00:43:49] MULTI: Violations: DEVICE
+[2026-05-01 00:43:49] DEVICE: Detected device with confidence 0.44
+[2026-05-01 00:43:49] MULTI: Violations: DEVICE
+[2026-05-01 00:43:49] DEVICE: Detected device with confidence 0.38
+[2026-05-01 00:43:49] MULTI: Violations: DEVICE
+[2026-05-01 00:43:49] DEVICE: Detected device with confidence 0.25
+[2026-05-01 00:43:49] MULTI: Violations: DEVICE
+[2026-05-01 00:43:49] DEVICE: Detected device with confidence 0.28
+[2026-05-01 00:43:49] MULTI: Violations: DEVICE
+[2026-05-01 00:43:49] DEVICE: Detected device with confidence 0.49
+[2026-05-01 00:43:50] MULTI: Violations: DEVICE
+[2026-05-01 00:43:50] DEVICE: Detected device with confidence 0.36
+[2026-05-01 00:43:50] MULTI: Violations: DEVICE
+[2026-05-01 00:43:50] DEVICE: Detected device with confidence 0.39
+[2026-05-01 00:43:50] MULTI: Violations: DEVICE
+[2026-05-01 00:43:50] DEVICE: Detected device with confidence 0.27
+[2026-05-01 00:43:50] MULTI: Violations: DEVICE
+[2026-05-01 00:43:50] DEVICE: Detected device with confidence 0.33
+[2026-05-01 00:43:50] MULTI: Violations: DEVICE
+[2026-05-01 00:43:50] DEVICE: Detected device with confidence 0.29
+[2026-05-01 00:43:50] MULTI: Violations: DEVICE
+[2026-05-01 00:43:50] DEVICE: Detected device with confidence 0.33
+[2026-05-01 00:43:50] MULTI: Violations: DEVICE
+[2026-05-01 00:43:50] DEVICE: Detected device with confidence 0.30
+[2026-05-01 00:43:50] MULTI: Violations: DEVICE
+[2026-05-01 00:43:51] DEVICE: Detected device with confidence 0.42
+[2026-05-01 00:43:51] MULTI: Violations: DEVICE
+[2026-05-01 00:43:51] DEVICE: Detected device with confidence 0.40
+[2026-05-01 00:43:51] MULTI: Violations: DEVICE
+[2026-05-01 00:43:51] DEVICE: Detected device with confidence 0.40
+[2026-05-01 00:43:51] MULTI: Violations: DEVICE
+[2026-05-01 00:43:51] DEVICE: Detected device with confidence 0.37
+[2026-05-01 00:43:51] MULTI: Violations: DEVICE
+[2026-05-01 00:43:51] DEVICE: Detected device with confidence 0.47
+[2026-05-01 00:43:51] MULTI: Violations: DEVICE
+[2026-05-01 00:43:51] DEVICE: Detected device with confidence 0.56
+[2026-05-01 00:43:51] MULTI: Violations: DEVICE
+[2026-05-01 00:43:51] DEVICE: Detected device with confidence 0.47
+[2026-05-01 00:43:51] MULTI: Violations: DEVICE
+[2026-05-01 00:43:51] DEVICE: Detected device with confidence 0.44
+[2026-05-01 00:43:51] MULTI: Violations: DEVICE
+[2026-05-01 00:43:51] DEVICE: Detected device with confidence 0.63
+[2026-05-01 00:43:51] MULTI: Violations: DEVICE
+[2026-05-01 00:43:52] DEVICE: Detected device with confidence 0.44
+[2026-05-01 00:43:52] MULTI: Violations: DEVICE
+[2026-05-01 00:43:52] DEVICE: Detected device with confidence 0.58
+[2026-05-01 00:43:52] MULTI: Violations: DEVICE
+[2026-05-01 00:43:52] DEVICE: Detected device with confidence 0.50
+[2026-05-01 00:43:52] MULTI: Violations: DEVICE
+[2026-05-01 00:43:52] DEVICE: Detected device with confidence 0.57
+[2026-05-01 00:43:52] DEVICE: Detected device with confidence 0.40
+[2026-05-01 00:43:52] MULTI: Violations: DEVICE
+[2026-05-01 00:43:52] DEVICE: Detected device with confidence 0.50
+[2026-05-01 00:43:52] MULTI: Violations: DEVICE
+[2026-05-01 00:43:52] DEVICE: Detected device with confidence 0.36
+[2026-05-01 00:43:52] MULTI: Violations: DEVICE
+[2026-05-01 00:43:52] DEVICE: Detected device with confidence 0.60
+[2026-05-01 00:43:52] MULTI: Violations: DEVICE
+[2026-05-01 00:43:52] DEVICE: Detected device with confidence 0.31
+[2026-05-01 00:43:52] MULTI: Violations: DEVICE
+[2026-05-01 00:43:52] DEVICE: Detected device with confidence 0.34
+[2026-05-01 00:43:52] MULTI: Violations: DEVICE
+[2026-05-01 00:43:53] DEVICE: Detected device with confidence 0.36
+[2026-05-01 00:43:53] MULTI: Violations: DEVICE
+[2026-05-01 00:43:53] DEVICE: Detected device with confidence 0.50
+[2026-05-01 00:43:53] MULTI: Violations: DEVICE
+[2026-05-01 00:43:53] DEVICE: Detected device with confidence 0.46
+[2026-05-01 00:43:53] MULTI: Violations: DEVICE
+[2026-05-01 00:43:53] DEVICE: Detected device with confidence 0.46
+[2026-05-01 00:43:53] MULTI: Violations: DEVICE
+[2026-05-01 00:43:53] DEVICE: Detected device with confidence 0.28
+[2026-05-01 00:43:53] MULTI: Violations: DEVICE
+[2026-05-01 00:43:53] DEVICE: Detected device with confidence 0.27
+[2026-05-01 00:43:53] MULTI: Violations: DEVICE
+[2026-05-01 00:43:53] DEVICE: Detected device with confidence 0.28
+[2026-05-01 00:43:53] MULTI: Violations: DEVICE
+[2026-05-01 00:43:53] DEVICE: Detected device with confidence 0.28
+[2026-05-01 00:43:53] MULTI: Violations: DEVICE
+[2026-05-01 00:43:54] DEVICE: Detected device with confidence 0.39
+[2026-05-01 00:43:54] MULTI: Violations: DEVICE
+[2026-05-01 00:43:54] DEVICE: Detected device with confidence 0.34
+[2026-05-01 00:43:54] MULTI: Violations: DEVICE
+[2026-05-01 00:43:54] DEVICE: Detected device with confidence 0.26
+[2026-05-01 00:43:54] MULTI: Violations: DEVICE
+[2026-05-01 00:43:54] DEVICE: Detected device with confidence 0.36
+[2026-05-01 00:43:54] MULTI: Violations: DEVICE
+[2026-05-01 00:43:54] DEVICE: Detected device with confidence 0.36
+[2026-05-01 00:43:54] MULTI: Violations: DEVICE
+[2026-05-01 00:43:54] DEVICE: Detected device with confidence 0.32
+[2026-05-01 00:43:55] MULTI: Violations: DEVICE
+[2026-05-01 00:43:55] DEVICE: Detected device with confidence 0.38
+[2026-05-01 00:43:55] MULTI: Violations: DEVICE
+[2026-05-01 00:43:55] DEVICE: Detected device with confidence 0.39
+[2026-05-01 00:43:55] MULTI: Violations: DEVICE
+[2026-05-01 00:43:55] DEVICE: Detected device with confidence 0.29
+[2026-05-01 00:43:55] MULTI: Violations: DEVICE
+[2026-05-01 00:43:55] DEVICE: Detected device with confidence 0.31
+[2026-05-01 00:43:55] MULTI: Violations: DEVICE
+[2026-05-01 00:43:55] DEVICE: Detected device with confidence 0.40
+[2026-05-01 00:43:55] MULTI: Violations: DEVICE
+[2026-05-01 00:43:55] DEVICE: Detected device with confidence 0.29
+[2026-05-01 00:43:55] MULTI: Violations: DEVICE
+[2026-05-01 00:43:56] DEVICE: Detected device with confidence 0.27
+[2026-05-01 00:43:56] MULTI: Violations: DEVICE
+[2026-05-01 00:43:59] DEVICE: Detected device with confidence 0.39
+[2026-05-01 00:43:59] MULTI: Violations: DEVICE
+[2026-05-01 00:43:59] DEVICE: Detected device with confidence 0.56
+[2026-05-01 00:43:59] MULTI: Violations: DEVICE
+[2026-05-01 00:43:59] DEVICE: Detected device with confidence 0.31
+[2026-05-01 00:43:59] MULTI: Violations: DEVICE
+[2026-05-01 00:43:59] DEVICE: Detected device with confidence 0.39
+[2026-05-01 00:43:59] MULTI: Violations: DEVICE
+[2026-05-01 00:44:00] DEVICE: Detected device with confidence 0.30
+[2026-05-01 00:44:00] MULTI: Violations: DEVICE
+[2026-05-01 00:44:00] DEVICE: Detected device with confidence 0.27
+[2026-05-01 00:44:00] MULTI: Violations: DEVICE
+[2026-05-01 00:44:00] DEVICE: Detected device with confidence 0.29
+[2026-05-01 00:44:00] MULTI: Violations: DEVICE
+[2026-05-01 00:44:00] HEAD_TURN: Head turned 0.5 degrees
+[2026-05-01 00:44:00] DEVICE: Detected device with confidence 0.27
+[2026-05-01 00:44:00] MULTI: Violations: HEAD | DEVICE
+[2026-05-01 00:44:00] MULTI: Violations: HEAD
+[2026-05-01 00:44:00] DEVICE: Detected device with confidence 0.25
+[2026-05-01 00:44:00] MULTI: Violations: HEAD | DEVICE
+[2026-05-01 00:44:00] DEVICE: Detected device with confidence 0.43
+[2026-05-01 00:44:00] MULTI: Violations: HEAD | DEVICE
+[2026-05-01 00:44:01] DEVICE: Detected device with confidence 0.34
+[2026-05-01 00:44:01] MULTI: Violations: DEVICE
+[2026-05-01 00:44:01] DEVICE: Detected device with confidence 0.44
+[2026-05-01 00:44:01] MULTI: Violations: DEVICE
+[2026-05-01 00:44:01] DEVICE: Detected device with confidence 0.42
+[2026-05-01 00:44:01] MULTI: Violations: DEVICE
+[2026-05-01 00:44:02] DEVICE: Detected device with confidence 0.28
+[2026-05-01 00:44:02] MULTI: Violations: DEVICE
+[2026-05-01 00:44:02] DEVICE: Detected device with confidence 0.25
+[2026-05-01 00:44:02] MULTI: Violations: DEVICE
+[2026-05-01 00:44:02] DEVICE: Detected device with confidence 0.28
+[2026-05-01 00:44:02] MULTI: Violations: DEVICE
+[2026-05-01 00:44:02] DEVICE: Detected device with confidence 0.26
+[2026-05-01 00:44:02] MULTI: Violations: DEVICE
+[2026-05-01 00:44:02] DEVICE: Detected device with confidence 0.31
+[2026-05-01 00:44:02] DEVICE: Detected device with confidence 0.31
+[2026-05-01 00:44:02] MULTI: Violations: DEVICE
+[2026-05-01 00:44:02] DEVICE: Detected device with confidence 0.31
+[2026-05-01 00:44:02] MULTI: Violations: DEVICE
+[2026-05-01 00:44:03] DEVICE: Detected device with confidence 0.44
+[2026-05-01 00:44:03] MULTI: Violations: DEVICE
+[2026-05-01 00:44:03] HEAD_TURN: Head turned 0.4 degrees
+[2026-05-01 00:44:03] MULTI: Violations: HEAD
+[2026-05-01 00:44:03] MULTI: Violations: HEAD
+[2026-05-01 00:44:03] DEVICE: Detected device with confidence 0.28
+[2026-05-01 00:44:03] MULTI: Violations: HEAD | DEVICE
+[2026-05-01 00:44:03] MULTI: Violations: HEAD
+[2026-05-01 00:44:03] DEVICE: Detected device with confidence 0.37
+[2026-05-01 00:44:03] MULTI: Violations: HEAD | DEVICE
+[2026-05-01 00:44:03] DEVICE: Detected device with confidence 0.33
+[2026-05-01 00:44:03] DEVICE: Detected device with confidence 0.29
+[2026-05-01 00:44:03] MULTI: Violations: HEAD | DEVICE
+[2026-05-01 00:44:04] DEVICE: Detected device with confidence 0.44
+[2026-05-01 00:44:04] MULTI: Violations: HEAD | DEVICE
+[2026-05-01 00:44:04] DEVICE: Detected device with confidence 0.48
+[2026-05-01 00:44:04] MULTI: Violations: HEAD | DEVICE
+[2026-05-01 00:44:04] DEVICE: Detected device with confidence 0.26
+[2026-05-01 00:44:04] MULTI: Violations: HEAD | DEVICE
+[2026-05-01 00:44:04] DEVICE: Detected device with confidence 0.32
+[2026-05-01 00:44:04] MULTI: Violations: HEAD | DEVICE
+[2026-05-01 00:44:04] MULTI: Violations: HEAD
+[2026-05-01 00:44:04] MULTI: Violations: HEAD
+[2026-05-01 00:44:06] HEAD_TURN: Head turned 0.2 degrees
+[2026-05-01 00:44:06] MULTI: Violations: HEAD
+[2026-05-01 00:44:06] MULTI: Violations: HEAD
+[2026-05-01 00:44:06] MULTI: Violations: HEAD
+[2026-05-01 00:44:07] MULTI: Violations: HEAD
+[2026-05-01 00:46:57] HEAD_TURN: Head turned 0.1 degrees
+[2026-05-01 00:46:58] MULTI: Violations: HEAD
+[2026-05-01 00:46:58] MULTI: Violations: HEAD
+[2026-05-01 00:46:58] MULTI: Violations: HEAD
+[2026-05-01 00:46:58] MULTI: Violations: HEAD
+[2026-05-01 00:46:58] MULTI: Violations: HEAD
+[2026-05-01 00:46:58] MULTI: Violations: HEAD
+[2026-05-01 00:46:58] MULTI: Violations: HEAD
+[2026-05-01 00:46:58] MULTI: Violations: HEAD
+[2026-05-01 00:46:58] MULTI: Violations: HEAD
+[2026-05-01 00:46:58] MULTI: Violations: HEAD
+[2026-05-01 00:46:59] MULTI: Violations: HEAD
+[2026-05-01 00:46:59] MULTI: Violations: HEAD
+[2026-05-01 00:46:59] MULTI: Violations: HEAD
+[2026-05-01 00:46:59] MULTI: Violations: HEAD
+[2026-05-01 00:46:59] MULTI: Violations: HEAD
+[2026-05-01 00:46:59] MULTI: Violations: HEAD
+[2026-05-01 00:46:59] MULTI: Violations: HEAD
+[2026-05-01 00:46:59] MULTI: Violations: HEAD
+[2026-05-01 00:46:59] MULTI: Violations: HEAD
+[2026-05-01 00:47:00] MULTI: Violations: HEAD
+[2026-05-01 00:47:01] HEAD_TURN: Head turned 0.5 degrees
+[2026-05-01 00:47:01] MULTI: Violations: HEAD
+[2026-05-01 00:47:01] MULTI: Violations: HEAD
+[2026-05-01 00:47:01] MULTI: Violations: HEAD
+[2026-05-01 00:47:01] MULTI: Violations: HEAD
+[2026-05-01 00:47:01] MULTI: Violations: HEAD
+[2026-05-01 00:47:02] MULTI: Violations: HEAD
+[2026-05-01 00:47:02] MULTI: Violations: HEAD
+[2026-05-01 00:47:02] MULTI: Violations: HEAD
+[2026-05-01 00:47:02] MULTI: Violations: HEAD
+[2026-05-01 00:47:02] MULTI: Violations: HEAD
+[2026-05-01 00:47:02] MULTI: Violations: HEAD
+[2026-05-01 00:47:02] MULTI: Violations: HEAD
+[2026-05-01 00:47:06] HEAD_TURN: Head turned 0.2 degrees
+[2026-05-01 00:47:06] MULTI: Violations: HEAD
+[2026-05-01 00:47:06] MULTI: Violations: HEAD
+[2026-05-01 00:47:06] MULTI: Violations: HEAD
+[2026-05-01 00:47:06] MULTI: Violations: HEAD
+[2026-05-01 00:47:06] MULTI: Violations: HEAD
+[2026-05-01 00:47:06] MULTI: Violations: HEAD
+[2026-05-01 00:47:07] MULTI: Violations: HEAD
+[2026-05-01 00:47:07] MULTI: Violations: HEAD
+[2026-05-01 00:47:07] MULTI: Violations: HEAD
+[2026-05-01 00:47:07] MULTI: Violations: HEAD
+[2026-05-01 00:47:09] HEAD_TURN: Head turned 0.1 degrees
+[2026-05-01 00:47:09] MULTI: Violations: HEAD
+[2026-05-01 00:47:10] MULTI: Violations: HEAD
+[2026-05-01 00:47:10] MULTI: Violations: HEAD
+[2026-05-01 00:47:10] MULTI: Violations: HEAD
+[2026-05-01 00:47:10] MULTI: Violations: HEAD
+[2026-05-01 00:47:10] MULTI: Violations: HEAD
+[2026-05-01 00:47:10] MULTI: Violations: HEAD
+[2026-05-01 00:47:10] MULTI: Violations: HEAD
+[2026-05-01 00:47:11] MULTI: Violations: HEAD
+[2026-05-01 00:47:11] MULTI: Violations: HEAD
+[2026-05-01 00:47:11] MULTI: Violations: HEAD
+[2026-05-01 00:47:11] MULTI: Violations: HEAD
+[2026-05-01 00:47:11] MULTI: Violations: HEAD
+[2026-05-01 00:47:11] MULTI: Violations: HEAD
+[2026-05-01 00:47:11] MULTI: Violations: HEAD
+[2026-05-01 00:47:12] MULTI: Violations: HEAD
+[2026-05-01 00:47:12] MULTI: Violations: HEAD
+[2026-05-01 00:47:12] MULTI: Violations: HEAD
+[2026-05-01 00:47:12] MULTI: Violations: HEAD
+[2026-05-01 00:47:12] MULTI: Violations: HEAD
+[2026-05-01 00:47:15] HEAD_TURN: Head turned 0.1 degrees
+[2026-05-01 00:47:15] MULTI: Violations: HEAD
+[2026-05-01 00:47:15] MULTI: Violations: HEAD
+[2026-05-01 00:47:16] MULTI: Violations: HEAD
+[2026-05-01 00:47:16] MULTI: Violations: HEAD
+[2026-05-01 00:47:16] MULTI: Violations: HEAD
+[2026-05-01 00:47:16] MULTI: Violations: HEAD
+[2026-05-01 00:47:16] DEVICE: Detected device with confidence 0.47
+[2026-05-01 00:47:16] MULTI: Violations: HEAD | DEVICE
+[2026-05-01 00:47:16] DEVICE: Detected device with confidence 0.74
+[2026-05-01 00:47:16] MULTI: Violations: HEAD | DEVICE
+[2026-05-01 00:47:16] MULTI: Violations: HEAD
+[2026-05-01 00:47:16] MULTI: Violations: HEAD
+[2026-05-01 00:47:17] MULTI: Violations: HEAD
+[2026-05-01 00:47:17] MULTI: Violations: HEAD
+[2026-05-01 00:47:17] DEVICE: Detected device with confidence 0.36
+[2026-05-01 00:47:17] MULTI: Violations: HEAD | DEVICE
+[2026-05-01 00:47:17] DEVICE: Detected device with confidence 0.44
+[2026-05-01 00:47:17] MULTI: Violations: HEAD | DEVICE
+[2026-05-01 00:47:17] DEVICE: Detected device with confidence 0.50
+[2026-05-01 00:47:17] MULTI: Violations: HEAD | DEVICE
+[2026-05-01 00:47:17] DEVICE: Detected device with confidence 0.25
+[2026-05-01 00:47:17] MULTI: Violations: HEAD | DEVICE
+[2026-05-01 00:47:17] DEVICE: Detected device with confidence 0.58
+[2026-05-01 00:47:17] MULTI: Violations: HEAD | DEVICE
+[2026-05-01 00:47:17] DEVICE: Detected device with confidence 0.27
+[2026-05-01 00:47:17] MULTI: Violations: HEAD | DEVICE
+[2026-05-01 00:47:18] MULTI: Violations: HEAD
+[2026-05-01 00:47:18] MULTI: Violations: HEAD
+[2026-05-01 00:47:18] DEVICE: Detected device with confidence 0.37
+[2026-05-01 00:47:18] MULTI: Violations: HEAD | DEVICE
+[2026-05-01 00:47:18] MULTI: Violations: HEAD
+[2026-05-01 00:47:18] MULTI: Violations: HEAD
+[2026-05-01 00:47:21] DEVICE: Detected device with confidence 0.32
+[2026-05-01 00:47:21] MULTI: Violations: DEVICE
+[2026-05-01 00:47:21] DEVICE: Detected device with confidence 0.56
+[2026-05-01 00:47:21] DEVICE: Detected device with confidence 0.52
+[2026-05-01 00:47:21] MULTI: Violations: DEVICE
+[2026-05-01 00:47:21] DEVICE: Detected device with confidence 0.61
+[2026-05-01 00:47:21] DEVICE: Detected device with confidence 0.26
+[2026-05-01 00:47:22] MULTI: Violations: DEVICE
+[2026-05-01 00:47:22] DEVICE: Detected device with confidence 0.56
+[2026-05-01 00:47:22] MULTI: Violations: DEVICE
+[2026-05-01 00:47:22] DEVICE: Detected device with confidence 0.59
+[2026-05-01 00:47:22] MULTI: Violations: DEVICE
+[2026-05-01 00:47:22] DEVICE: Detected device with confidence 0.62
+[2026-05-01 00:47:22] MULTI: Violations: DEVICE
+[2026-05-01 00:47:22] DEVICE: Detected device with confidence 0.73
+[2026-05-01 00:47:22] MULTI: Violations: DEVICE
+[2026-05-01 00:47:22] DEVICE: Detected device with confidence 0.72
+[2026-05-01 00:47:22] MULTI: Violations: DEVICE
+[2026-05-01 00:47:22] DEVICE: Detected device with confidence 0.52
+[2026-05-01 00:47:22] MULTI: Violations: DEVICE
+[2026-05-01 00:47:22] DEVICE: Detected device with confidence 0.63
+[2026-05-01 00:47:22] MULTI: Violations: DEVICE
+[2026-05-01 00:47:22] DEVICE: Detected device with confidence 0.59
+[2026-05-01 00:47:22] MULTI: Violations: DEVICE
+[2026-05-01 00:47:23] DEVICE: Detected device with confidence 0.58
+[2026-05-01 00:47:23] MULTI: Violations: DEVICE
+[2026-05-01 00:47:23] DEVICE: Detected device with confidence 0.27
+[2026-05-01 00:47:23] DEVICE: Detected device with confidence 0.27
+[2026-05-01 00:47:23] MULTI: Violations: DEVICE
+[2026-05-01 00:47:25] DEVICE: Detected device with confidence 0.27
+[2026-05-01 00:47:25] MULTI: Violations: DEVICE
+[2026-05-01 00:47:25] DEVICE: Detected device with confidence 0.67
+[2026-05-01 00:47:25] MULTI: Violations: DEVICE
+[2026-05-01 00:47:25] DEVICE: Detected device with confidence 0.66
+[2026-05-01 00:47:25] MULTI: Violations: DEVICE
+[2026-05-01 00:47:25] DEVICE: Detected device with confidence 0.65
+[2026-05-01 00:47:25] MULTI: Violations: DEVICE
+[2026-05-01 00:47:25] DEVICE: Detected device with confidence 0.40
+[2026-05-01 00:47:25] MULTI: Violations: DEVICE
+[2026-05-01 00:47:25] HEAD_TURN: Head turned 0.1 degrees
+[2026-05-01 00:47:26] DEVICE: Detected device with confidence 0.37
+[2026-05-01 00:47:26] MULTI: Violations: HEAD | DEVICE
+[2026-05-01 00:47:26] MULTI: Violations: HEAD
+[2026-05-01 00:47:30] DEVICE: Detected device with confidence 0.26
+[2026-05-01 00:47:30] MULTI: Violations: DEVICE
+[2026-05-01 00:47:31] DEVICE: Detected device with confidence 0.30
+[2026-05-01 00:47:31] MULTI: Violations: DEVICE
+[2026-05-01 00:47:31] DEVICE: Detected device with confidence 0.46
+[2026-05-01 00:47:31] MULTI: Violations: DEVICE
+[2026-05-01 00:47:31] DEVICE: Detected device with confidence 0.38
+[2026-05-01 00:47:31] MULTI: Violations: DEVICE
+[2026-05-01 00:47:31] DEVICE: Detected device with confidence 0.31
+[2026-05-01 00:47:31] MULTI: Violations: DEVICE
+[2026-05-01 00:47:31] DEVICE: Detected device with confidence 0.58
+[2026-05-01 00:47:31] MULTI: Violations: DEVICE
+[2026-05-01 00:47:31] DEVICE: Detected device with confidence 0.44
+[2026-05-01 00:47:31] MULTI: Violations: DEVICE
+[2026-05-01 00:47:37] DEVICE: Detected device with confidence 0.28
+[2026-05-01 00:47:37] MULTI: Violations: DEVICE
+[2026-05-01 00:47:37] DEVICE: Detected device with confidence 0.28
+[2026-05-01 00:47:37] MULTI: Violations: DEVICE
+[2026-05-01 00:47:37] DEVICE: Detected device with confidence 0.32
+[2026-05-01 00:47:37] MULTI: Violations: DEVICE
+[2026-05-01 00:47:37] DEVICE: Detected device with confidence 0.28
+[2026-05-01 00:47:37] MULTI: Violations: DEVICE
+[2026-05-01 00:47:37] DEVICE: Detected device with confidence 0.29
+[2026-05-01 00:47:37] MULTI: Violations: DEVICE
+[2026-05-01 00:47:37] DEVICE: Detected device with confidence 0.28
+[2026-05-01 00:47:38] MULTI: Violations: DEVICE
+[2026-05-01 00:47:45] HEAD_TURN: Head turned 0.1 degrees
+[2026-05-01 00:47:45] MULTI: Violations: HEAD
+[2026-05-01 00:47:45] MULTI: Violations: HEAD
+[2026-05-01 00:47:45] MULTI: Violations: HEAD
+[2026-05-01 00:47:51] PROXIMITY: Distance 26.4px below threshold
+[2026-05-01 00:47:51] MULTI: Violations: PROXIMITY
+[2026-05-01 00:47:57] NO_FACE: No face detected in frame
+[2026-05-01 00:47:57] MULTI: Violations: NO_FACE
+[2026-05-01 00:47:57] MULTI: Violations: NO_FACE
+[2026-05-01 12:19:31] HEAD_TURN: Head turned 0.1 degrees
+[2026-05-01 12:19:31] MULTI: Violations: HEAD
+[2026-05-01 12:19:35] HEAD_TURN: Head turned 0.3 degrees
+[2026-05-01 12:19:35] MULTI: Violations: HEAD
+[2026-05-01 12:19:35] MULTI: Violations: HEAD
+[2026-05-01 12:19:35] MULTI: Violations: HEAD
+[2026-05-01 12:19:35] MULTI: Violations: HEAD
+[2026-05-01 12:19:36] MULTI: Violations: HEAD
+[2026-05-01 12:19:36] MULTI: Violations: HEAD
+[2026-05-01 12:19:38] HEAD_TURN: Head turned 0.3 degrees
+[2026-05-01 12:19:38] MULTI: Violations: HEAD
+[2026-05-01 12:19:38] MULTI: Violations: HEAD
+[2026-05-01 12:19:39] MULTI: Violations: HEAD
+[2026-05-01 12:19:39] MULTI: Violations: HEAD
+[2026-05-01 12:19:41] HEAD_TURN: Head turned 0.1 degrees
+[2026-05-01 12:19:41] MULTI: Violations: HEAD
+[2026-05-01 12:19:41] MULTI: Violations: HEAD
+[2026-05-01 12:19:41] MULTI: Violations: HEAD
+[2026-05-01 12:19:43] HEAD_TURN: Head turned 0.1 degrees
+[2026-05-01 12:19:43] MULTI: Violations: HEAD
+[2026-05-01 12:19:43] MULTI: Violations: HEAD
+[2026-05-01 12:19:44] MULTI: Violations: HEAD
+[2026-05-01 12:19:44] MULTI: Violations: HEAD
+[2026-05-01 12:19:44] MULTI: Violations: HEAD
+[2026-05-01 12:19:44] MULTI: Violations: HEAD
+[2026-05-01 12:19:44] MULTI: Violations: HEAD
+[2026-05-01 12:19:53] HEAD_TURN: Head turned 0.1 degrees
+[2026-05-01 12:19:53] MULTI: Violations: HEAD
+[2026-05-01 12:19:53] MULTI: Violations: HEAD
+[2026-05-01 12:19:53] MULTI: Violations: HEAD
+[2026-05-01 12:19:53] MULTI: Violations: HEAD
+[2026-05-01 12:19:54] MULTI: Violations: HEAD
+[2026-05-01 12:19:54] MULTI: Violations: HEAD
+[2026-05-01 12:19:54] MULTI: Violations: HEAD
+[2026-05-01 12:19:54] MULTI: Violations: HEAD
+[2026-05-01 12:19:54] MULTI: Violations: HEAD
+[2026-05-01 12:19:55] MULTI: Violations: HEAD
+[2026-05-01 12:19:56] HEAD_TURN: Head turned 0.1 degrees
+[2026-05-01 12:19:56] MULTI: Violations: HEAD
+[2026-05-01 12:19:56] MULTI: Violations: HEAD
+[2026-05-01 12:19:57] MULTI: Violations: HEAD
